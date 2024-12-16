@@ -1,0 +1,17 @@
+{
+	id: "cdf68164-59d0-3b5a-b519-700842bd18a5"
+	type: "player"
+	player_name: "Sadoitoman"
+	ranks: {
+		cdf68164-59d0-3b5a-b519-700842bd18a5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sadoitoman"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

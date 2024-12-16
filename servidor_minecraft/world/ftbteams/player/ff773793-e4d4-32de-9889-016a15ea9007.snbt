@@ -1,0 +1,17 @@
+{
+	id: "ff773793-e4d4-32de-9889-016a15ea9007"
+	type: "player"
+	player_name: "Cattography"
+	ranks: {
+		ff773793-e4d4-32de-9889-016a15ea9007: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Cattography"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFA0"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
