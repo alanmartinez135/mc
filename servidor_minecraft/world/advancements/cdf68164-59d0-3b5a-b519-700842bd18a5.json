@@ -8274,6 +8274,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_helmet": {
     "criteria": {
       "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
@@ -8289,6 +8295,12 @@
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-18 04:56:53 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-12-18 06:02:38 +0000"
     },
     "done": true
   },
@@ -8436,6 +8448,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-18 05:56:19 +0000"
@@ -8539,6 +8557,12 @@
     },
     "done": true
   },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2024-12-18 05:08:38 +0000"
@@ -8587,6 +8611,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2024-12-18 05:56:19 +0000"
@@ -8599,6 +8629,12 @@
     },
     "done": true
   },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/button": {
     "criteria": {
       "has_planks": "2024-12-18 04:56:22 +0000"
@@ -8608,6 +8644,18 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-18 04:56:53 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
     },
     "done": true
   },
@@ -8677,6 +8725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-18 05:07:27 +0000"
@@ -8731,6 +8785,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2024-12-18 05:06:28 +0000"
@@ -8740,6 +8800,12 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2024-12-18 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_nugget_from_shovel": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-18 06:05:30 +0000"
     },
     "done": true
   },
@@ -8782,6 +8848,12 @@
   "techreborn:recipes/grinder/aluminum_dust": {
     "criteria": {
       "has_tag_c_aluminum_ingots": "2024-12-18 05:29:14 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 06:03:22 +0000"
     },
     "done": true
   },
@@ -8848,6 +8920,12 @@
   "croptopia:recipes/banana_nut_bread": {
     "criteria": {
       "has_banana": "2024-12-18 05:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
     },
     "done": true
   },
@@ -8941,6 +9019,12 @@
     },
     "done": true
   },
+  "botania:recipes/misc/petal_green": {
+    "criteria": {
+      "has_item": "2024-12-18 06:03:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2024-12-18 05:56:19 +0000"
@@ -9013,11 +9097,23 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:adventure/the_magicians": {
     "criteria": {
       "killed_illusioner": "2024-12-18 04:36:42 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
   },
   "vinery:recipes/dark_oak_wine_rack_small": {
     "criteria": {
@@ -9136,6 +9232,12 @@
   "copycats:recipes/misc/stonecutting/copycat_ladder": {
     "criteria": {
       "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/viridescent_nylium": {
+    "criteria": {
+      "has_mushroom": "2024-12-18 06:02:38 +0000"
     },
     "done": true
   },
@@ -9307,6 +9409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/gemstone_white": {
     "criteria": {
       "has_quartz": "2024-12-18 05:08:38 +0000"
@@ -9334,6 +9442,18 @@
   "mcdw:recipes/hammers/hammer_mace": {
     "criteria": {
       "has_iron_nugget": "2024-12-18 04:58:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
     },
     "done": true
   },
@@ -9391,6 +9511,42 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_block": {
     "criteria": {
       "has_item": "2024-12-18 05:23:10 +0000"
@@ -9433,9 +9589,21 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/green_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-18 06:03:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/banana_cream_pie": {
     "criteria": {
       "has_banana": "2024-12-18 05:18:24 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 06:03:22 +0000"
     },
     "done": true
   },
@@ -9460,6 +9628,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
     "criteria": {
       "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2024-12-18 06:01:18 +0000"
     },
     "done": true
   },
@@ -9496,6 +9670,18 @@
   "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
     "criteria": {
       "has_zinc_ingot": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-18 06:05:30 +0000"
     },
     "done": true
   },
@@ -9688,6 +9874,18 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2024-12-18 05:36:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 06:03:22 +0000"
     },
     "done": true
   },
@@ -9889,6 +10087,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/banana_sapling": {
     "criteria": {
       "has_banana": "2024-12-18 05:18:24 +0000"
@@ -9937,9 +10141,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-18 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:38 +0000"
     },
     "done": true
   },
@@ -10123,6 +10399,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+    "criteria": {
+      "has_item": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
     "criteria": {
       "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
@@ -10150,6 +10432,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-18 05:07:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/blue_dye_from_meadow_sage": {
+    "criteria": {
+      "has_meadow_sage": "2024-12-18 06:02:38 +0000"
     },
     "done": true
   },
@@ -10240,6 +10528,12 @@
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2024-12-18 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2024-12-18 06:05:30 +0000"
     },
     "done": true
   },

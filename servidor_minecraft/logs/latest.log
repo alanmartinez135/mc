@@ -2418,3 +2418,5 @@ BCLib - Nether BiomeSource (60c2ed0e)
 [05:54:21] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location class_2338{x=1915, y=67, z=21}
 [05:54:47] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=1568, y=-20, z=55}
 [05:54:47] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=1570, y=-30, z=56}
+[06:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
+[06:06:27] [Server thread/INFO]: Cattography has completed the challenge [Centennial]

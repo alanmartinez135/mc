@@ -8129,6 +8129,24 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_smelting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 05:59:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
+  "beachparty:beachpartybeach_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_oak_wine_rack_big": {
     "criteria": {
       "has_dark_oak_planks": "2024-12-18 05:55:55 +0000"
@@ -8159,6 +8177,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/green_coffin": {
+    "criteria": {
+      "has_item": "2024-12-18 06:01:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2024-12-18 04:52:35 +0000"
@@ -8175,6 +8199,18 @@
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2024-12-18 05:06:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic_from_smoking": {
+    "criteria": {
+      "has_item": "2024-12-18 06:00:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-18 06:01:36 +0000"
     },
     "done": true
   },
@@ -8202,6 +8238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-18 06:01:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/ocelot": {
     "criteria": {
       "has_cod": "2024-12-18 05:42:47 +0000"
@@ -8226,6 +8268,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 05:59:06 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_chair": {
     "criteria": {
       "has_dark_oak_chair": "2024-12-18 05:55:55 +0000"
@@ -8244,15 +8292,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/explorer_pottery_sherd": {
+    "criteria": {
+      "has_map": "2024-12-18 06:02:02 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/button": {
     "criteria": {
       "has_planks": "2024-12-18 04:57:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-18 06:01:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 05:59:06 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-12-18 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2024-12-18 06:04:58 +0000"
     },
     "done": true
   },
@@ -8277,6 +8349,12 @@
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-18 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub": {
+    "criteria": {
+      "supplementaries:straw": "2024-12-18 06:02:34 +0000"
     },
     "done": true
   },
@@ -8370,6 +8448,12 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 05:59:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2024-12-18 05:08:29 +0000"
@@ -8379,6 +8463,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-18 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-18 06:01:36 +0000"
     },
     "done": true
   },
@@ -8397,6 +8487,12 @@
   "soulsweapons:recipes/combat/kirkhammer": {
     "criteria": {
       "has_item": "2024-12-18 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 05:59:06 +0000"
     },
     "done": true
   },
@@ -8455,6 +8551,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_daisy": {
+    "criteria": {
+      "has_daisy": "2024-12-18 06:00:51 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/glaives/spear_glaive_vanilla_sword": {
     "criteria": {
       "has_iron_sword": "2024-12-18 05:10:21 +0000"
@@ -8464,6 +8566,12 @@
   "techreborn:recipes/extractor/sponge_piece_from_cod": {
     "criteria": {
       "has_cod": "2024-12-18 05:42:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-12-18 06:02:34 +0000"
     },
     "done": true
   },
@@ -8575,6 +8683,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-18 06:01:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/compressor/invar_plate": {
     "criteria": {
       "has_tag_c_invar_ingots": "2024-12-18 05:24:45 +0000"
@@ -8617,6 +8731,12 @@
     },
     "done": true
   },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-18 04:25:38 +0000"
@@ -8632,6 +8752,12 @@
   "regions_unexplored:recipes/misc/magenta_dye_from_fireweed": {
     "criteria": {
       "has_fireweed": "2024-12-18 05:57:12 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2024-12-18 06:03:53 +0000"
     },
     "done": true
   },
@@ -8677,6 +8803,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-18 06:01:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2024-12-18 05:55:55 +0000"
@@ -8692,6 +8824,12 @@
   "supplementaries:recipes/decorations/sign_post_dark_oak": {
     "criteria": {
       "has_planks": "2024-12-18 05:55:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 05:59:06 +0000"
     },
     "done": true
   },
@@ -8716,6 +8854,18 @@
   "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
     "criteria": {
       "has_experience_bottle": "2024-12-18 05:23:35 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/mossy_stone_from_blasting_mossy_cobblestone": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 05:59:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 05:59:06 +0000"
     },
     "done": true
   },
@@ -8761,6 +8911,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2024-12-18 06:03:53 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2024-12-18 05:07:37 +0000"
@@ -8773,9 +8929,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2024-12-18 06:04:58 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/banana_cream_pie": {
     "criteria": {
       "has_banana": "2024-12-18 05:18:18 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 05:59:06 +0000"
     },
     "done": true
   },
@@ -8797,6 +8965,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_grass_variants": {
+    "criteria": {
+      "has_grass_variant": "2024-12-18 05:59:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2024-12-18 05:06:24 +0000"
@@ -8815,15 +8995,39 @@
     },
     "done": true
   },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_from_mossy_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-18 05:59:06 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-18 05:06:24 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/root": {
     "criteria": {
       "grave_02": "2024-12-18 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-18 06:04:58 +0000"
     },
     "done": true
   },
@@ -8857,9 +9061,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/sheaf_pottery_sherd": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/solid_fuel_generator": {
+    "criteria": {
+      "has_furnace": "2024-12-18 06:04:58 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/redstone/trapped_juniper_chest": {
     "criteria": {
       "has_item": "2024-12-18 04:52:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/parts/plantball_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-18 06:01:36 +0000"
     },
     "done": true
   },
@@ -8941,6 +9163,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2024-12-18 06:02:02 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-18 04:25:38 +0000"
@@ -8965,15 +9193,63 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 06:06:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 05:59:06 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2024-12-18 05:59:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_bud": {
     "criteria": {
       "has_redstone": "2024-12-18 05:07:37 +0000"
     },
     "done": true
   },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-18 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "oxidized:recipes/copper_kiln": {
+    "criteria": {
+      "has_copper_block": "2024-12-18 06:04:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/map": {
+    "criteria": {
+      "has_filled_map": "2024-12-18 06:03:15 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/speed_up_belt": {
+    "criteria": {
+      "has_item": "2024-12-18 06:02:02 +0000"
     },
     "done": true
   },
@@ -9049,6 +9325,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/redstone/trapped_cypress_chest": {
     "criteria": {
       "has_item": "2024-12-18 04:52:35 +0000"
@@ -9079,6 +9367,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/iron_furnace_alt": {
+    "criteria": {
+      "has_furnace": "2024-12-18 06:04:58 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-18 04:57:03 +0000"
@@ -9094,6 +9388,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-18 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/assembling_machine/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 05:59:06 +0000"
     },
     "done": true
   },
@@ -9142,6 +9442,18 @@
   "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit": {
     "criteria": {
       "has_the_recipe": "2024-12-18 05:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-18 05:59:06 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/mossy_cobblestone_bricks_cobblestone": {
+    "criteria": {
+      "has_item": "2024-12-18 05:59:06 +0000"
     },
     "done": true
   },
@@ -9235,6 +9547,13 @@
     },
     "done": true
   },
+  "beachparty:beach_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000",
+      "has_the_recipe": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2024-12-18 05:08:29 +0000"
@@ -9250,6 +9569,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2024-12-18 05:06:24 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/food/grilled_garlic": {
+    "criteria": {
+      "has_item": "2024-12-18 06:00:37 +0000"
     },
     "done": true
   },
@@ -9271,15 +9596,33 @@
     },
     "done": true
   },
+  "bewitchment:recipes/food/grilled_garlic_from_campfire_cooking": {
+    "criteria": {
+      "has_item": "2024-12-18 06:00:37 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/rhyolite/rhyolite": {
     "criteria": {
       "has_item": "2024-12-18 05:08:29 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2024-12-18 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/mossy_cobblestone_witch_altar": {
+    "criteria": {
+      "has_item": "2024-12-18 05:59:06 +0000"
     },
     "done": true
   },
@@ -9334,6 +9677,12 @@
   "betternether:recipes/transportation/detector_rail": {
     "criteria": {
       "has_redstone": "2024-12-18 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-18 06:02:34 +0000"
     },
     "done": true
   },
