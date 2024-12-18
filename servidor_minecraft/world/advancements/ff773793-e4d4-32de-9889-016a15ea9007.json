@@ -606,12 +606,15 @@
       "rocky_reef": "2024-12-16 01:05:54 +0000",
       "grassy_beach": "2024-12-16 00:51:37 +0000",
       "rocky_meadow": "2024-12-16 00:51:05 +0000",
+      "tropical_river": "2024-12-18 04:29:05 +0000",
       "outback": "2024-12-16 01:05:43 +0000",
       "sparse_redwoods": "2024-12-16 00:09:07 +0000",
       "joshua_desert": "2024-12-16 00:55:49 +0000",
+      "deciduous_forest": "2024-12-18 04:30:21 +0000",
       "towering_cliffs": "2024-12-16 00:41:27 +0000",
       "bamboo_forest": "2024-12-16 00:52:08 +0000",
       "saguaro_desert": "2024-12-16 01:04:53 +0000",
+      "baobab_savanna": "2024-12-18 04:26:44 +0000",
       "grassland": "2024-12-16 00:46:47 +0000",
       "prairie": "2024-12-16 00:47:05 +0000",
       "redwoods": "2024-12-16 00:54:44 +0000",
@@ -628,12 +631,15 @@
       "rocky_reef": "2024-12-16 01:05:54 +0000",
       "grassy_beach": "2024-12-16 00:51:37 +0000",
       "rocky_meadow": "2024-12-16 00:51:05 +0000",
+      "tropical_river": "2024-12-18 04:29:05 +0000",
       "outback": "2024-12-16 01:05:43 +0000",
       "sparse_redwoods": "2024-12-16 00:09:07 +0000",
       "joshua_desert": "2024-12-16 00:55:49 +0000",
+      "deciduous_forest": "2024-12-18 04:30:21 +0000",
       "towering_cliffs": "2024-12-16 00:41:27 +0000",
       "bamboo_forest": "2024-12-16 00:52:08 +0000",
       "saguaro_desert": "2024-12-16 01:04:53 +0000",
+      "baobab_savanna": "2024-12-18 04:26:44 +0000",
       "grassland": "2024-12-16 00:46:47 +0000",
       "prairie": "2024-12-16 00:47:05 +0000",
       "redwoods": "2024-12-16 00:54:44 +0000",
@@ -3014,7 +3020,8 @@
       "minecraft:lukewarm_ocean": "2024-12-16 00:16:01 +0000",
       "minecraft:river": "2024-12-16 00:47:02 +0000",
       "minecraft:desert": "2024-12-16 00:58:03 +0000",
-      "minecraft:warm_ocean": "2024-12-16 01:06:11 +0000"
+      "minecraft:warm_ocean": "2024-12-16 01:06:11 +0000",
+      "minecraft:savanna": "2024-12-18 04:32:32 +0000"
     },
     "done": false
   },
@@ -4726,7 +4733,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:wither_skeleton": "2024-12-16 00:25:52 +0000"
+      "minecraft:wither_skeleton": "2024-12-16 00:25:52 +0000",
+      "minecraft:husk": "2024-12-18 04:25:48 +0000",
+      "minecraft:zombie": "2024-12-18 04:24:20 +0000"
     },
     "done": false
   },
@@ -7992,6 +8001,30 @@
       "has_chest": "2024-12-16 01:15:18 +0000"
     },
     "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2024-12-18 04:25:48 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-18 04:25:38 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_02": "2024-12-18 04:28:51 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-18 04:25:38 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
