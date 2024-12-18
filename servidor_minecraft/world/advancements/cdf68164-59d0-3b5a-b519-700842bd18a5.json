@@ -8286,6 +8286,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/birch_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
+    },
+    "done": true
+  },
   "mcdw:recipes/axes/axe_axe": {
     "criteria": {
       "has_iron_axe": "2024-12-18 06:16:48 +0000"
@@ -8349,6 +8355,12 @@
   "techreborn:recipes/compressor/zinc_plate": {
     "criteria": {
       "has_tag_c_zinc_ingots": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/spruce_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
     },
     "done": true
   },
@@ -9475,6 +9487,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/dragons_blood_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-18 04:24:43 +0000"
@@ -9514,6 +9532,12 @@
   "mcdw:recipes/double_axes/double_axe_cursed": {
     "criteria": {
       "has_rotten_flesh": "2024-12-18 04:43:20 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dark_oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
     },
     "done": true
   },
@@ -9823,6 +9847,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/acacia_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_the_recipe": "2024-12-18 06:10:19 +0000"
@@ -9943,6 +9973,18 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/warped_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/oak_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-18 04:25:57 +0000"
@@ -9970,6 +10012,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
     },
     "done": true
   },
@@ -10195,6 +10243,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/crimson_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-18 04:56:22 +0000"
@@ -10276,6 +10330,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/jungle_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
     },
     "done": true
   },
@@ -10381,6 +10441,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/decorations/elder_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/breathalyzer": {
     "criteria": {
       "has_iron_nugget": "2024-12-18 04:58:38 +0000"
@@ -10414,6 +10480,12 @@
   "handcrafted:recipes/misc/dark_oak_corner_trim": {
     "criteria": {
       "has_dark_oak_corner_trim": "2024-12-18 05:56:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_poppet_shelf": {
+    "criteria": {
+      "has_item": "2024-12-18 06:24:08 +0000"
     },
     "done": true
   },
