@@ -8274,6 +8274,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_helmet": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2024-12-18 04:47:31 +0000"
@@ -8364,6 +8370,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-18 05:06:28 +0000"
@@ -8440,6 +8452,12 @@
     "criteria": {
       "has_redstone": "2024-12-18 05:07:27 +0000",
       "has_the_recipe": "2024-12-18 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 05:36:06 +0000"
     },
     "done": true
   },
@@ -8581,9 +8599,21 @@
     },
     "done": true
   },
+  "beachparty:beachpartypalm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 05:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-18 04:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 05:36:06 +0000"
     },
     "done": true
   },
@@ -8659,6 +8689,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_boots": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/trapdoor": {
     "criteria": {
       "has_planks": "2024-12-18 04:56:22 +0000"
@@ -8680,6 +8716,12 @@
   "techreborn:recipes/crafting_table/machine/chemical_reactor": {
     "criteria": {
       "has_advanced_circuit": "2024-12-18 05:21:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/aluminum_dust": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2024-12-18 05:29:14 +0000"
     },
     "done": true
   },
@@ -8707,9 +8749,21 @@
     },
     "done": true
   },
+  "twigs:recipes/bamboo_thatch/bamboo_thatch": {
+    "criteria": {
+      "has_bamboo_leaves": "2024-12-18 05:36:04 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_layer": {
     "criteria": {
       "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/nugget/aluminum_nugget": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-18 05:29:14 +0000"
     },
     "done": true
   },
@@ -8815,6 +8869,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 05:36:06 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/wood": {
     "criteria": {
       "has_log": "2024-12-18 04:56:18 +0000"
@@ -8893,6 +8953,12 @@
     },
     "done": true
   },
+  "beachparty:palm_torch": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 05:36:06 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_wrench": {
     "criteria": {
       "has_nether_quartz": "2024-12-18 05:08:38 +0000"
@@ -8908,6 +8974,12 @@
   "promenade:recipes/crafting/maple/sign": {
     "criteria": {
       "has_planks": "2024-12-18 04:56:22 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/aluminum_plate": {
+    "criteria": {
+      "has_tag_c_aluminum_ingots": "2024-12-18 05:29:14 +0000"
     },
     "done": true
   },
@@ -8929,6 +9001,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-18 05:30:14 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2024-12-18 04:52:59 +0000"
@@ -8944,6 +9022,12 @@
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2024-12-18 05:06:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
     },
     "done": true
   },
@@ -8998,6 +9082,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-18 04:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 05:36:06 +0000"
     },
     "done": true
   },
@@ -9139,6 +9229,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 05:36:06 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_block": {
     "criteria": {
       "has_item": "2024-12-18 05:23:10 +0000"
@@ -9190,6 +9286,12 @@
   "promenade:recipes/crafting/maple/slab": {
     "criteria": {
       "has_planks": "2024-12-18 04:56:22 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-18 05:30:14 +0000"
     },
     "done": true
   },
@@ -9286,6 +9388,12 @@
   "ae2:recipes/misc/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2024-12-18 05:08:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/aluminum_storage_block": {
+    "criteria": {
+      "has_aluminum_ingot": "2024-12-18 05:29:14 +0000"
     },
     "done": true
   },
@@ -9391,6 +9499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 05:36:06 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_bud": {
     "criteria": {
       "has_redstone": "2024-12-18 05:07:27 +0000"
@@ -9418,6 +9532,12 @@
   "ae2:recipes/misc/network/cables/glass_blue": {
     "criteria": {
       "has_dyes/black": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bamboo_mat": {
+    "criteria": {
+      "has_bamboo": "2024-12-18 05:36:06 +0000"
     },
     "done": true
   },
@@ -9472,6 +9592,12 @@
   "ae2:recipes/misc/misc/tiny_tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-18 05:07:30 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/dark_oak_branch_from_dark_oak_log": {
+    "criteria": {
+      "has_log": "2024-12-18 05:30:14 +0000"
     },
     "done": true
   },
@@ -9571,6 +9697,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2024-12-18 05:07:27 +0000"
@@ -9592,6 +9724,12 @@
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2024-12-18 05:08:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 05:29:12 +0000"
     },
     "done": true
   },
@@ -9664,6 +9802,12 @@
   "croptopia:recipes/misc/banana_smoothie": {
     "criteria": {
       "has_banana": "2024-12-18 05:18:24 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
     },
     "done": true
   },
@@ -9745,9 +9889,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
     "criteria": {
       "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
     },
     "done": true
   },
@@ -9814,6 +9970,12 @@
   "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
     "criteria": {
       "has_zinc_ingots": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 05:30:14 +0000"
     },
     "done": true
   },

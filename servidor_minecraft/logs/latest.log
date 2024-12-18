@@ -2360,3 +2360,9 @@ BCLib - Nether BiomeSource (60c2ed0e)
 [05:22:06] [Server thread/INFO]: Sadoitoman has made the advancement [This Must be a Sign!]
 [05:24:16] [Server thread/INFO]: Villager class_1646['Sunny'/8, l='ServerLevel[world]', x=-4.10, y=236.00, z=19.94] died, message: 'Sunny hit the ground too hard'
 [05:24:16] [Server thread/INFO]: Named entity class_1646['Sunny'/8, l='ServerLevel[world]', x=-4.10, y=236.00, z=19.94] died: Sunny fell from a high place
+[05:29:35] [Server thread/INFO]: Cattography has made the advancement [This Must be a Sign!]
+[05:33:45] [pool-12-thread-8/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mesa], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_flower_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp]] from pos class_2338{x=3403, y=73, z=1947}
+[05:33:45] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=3403, y=73, z=1947} but found not block entity block Block{minecraft:air} at location
+[05:33:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=3403, y=73, z=1947}
+[05:34:25] [Server thread/WARN]: Boat (vehicle of Cattography) moved wrongly! 0.6452165451319161
+[05:34:25] [Server thread/WARN]: Boat (vehicle of Cattography) moved wrongly! 0.31693395474121644
