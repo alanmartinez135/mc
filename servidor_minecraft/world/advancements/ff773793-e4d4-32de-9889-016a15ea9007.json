@@ -3022,10 +3022,13 @@
       "minecraft:lukewarm_ocean": "2024-12-16 00:16:01 +0000",
       "minecraft:river": "2024-12-16 00:47:02 +0000",
       "minecraft:stony_shore": "2024-12-18 04:33:05 +0000",
+      "minecraft:forest": "2024-12-18 05:00:37 +0000",
       "minecraft:desert": "2024-12-16 00:58:03 +0000",
       "minecraft:jungle": "2024-12-18 04:49:40 +0000",
       "minecraft:warm_ocean": "2024-12-16 01:06:11 +0000",
-      "minecraft:savanna": "2024-12-18 04:32:32 +0000"
+      "minecraft:deep_lukewarm_ocean": "2024-12-18 05:02:54 +0000",
+      "minecraft:savanna": "2024-12-18 04:32:32 +0000",
+      "minecraft:plains": "2024-12-18 04:54:02 +0000"
     },
     "done": false
   },
@@ -8006,6 +8009,18 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/stairs": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/door": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:temple_entry": {
     "criteria": {
       "in_better_desert_temple": "2024-12-18 04:25:48 +0000"
@@ -8024,9 +8039,21 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/button": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2024-12-18 04:40:55 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
     },
     "done": true
   },
@@ -8039,6 +8066,12 @@
   "supplementaries:recipes/pedestal": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 04:52:30 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/wood": {
+    "criteria": {
+      "has_log": "2024-12-18 04:56:57 +0000"
     },
     "done": true
   },
@@ -8060,6 +8093,12 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/sign": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
     "criteria": {
       "has_diamond_pickaxe": "2024-12-18 04:47:01 +0000"
@@ -8078,9 +8117,45 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/maple/fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-18 04:25:38 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/planks": {
+    "criteria": {
+      "has_logs": "2024-12-18 04:56:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/promenade/sign_post_maple": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_roasted_asparagus": {
+    "criteria": {
+      "has_asparagus": "2024-12-18 04:59:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_cheesy_asparagus": {
+    "criteria": {
+      "has_asparagus": "2024-12-18 04:59:59 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/fence": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
     },
     "done": true
   },
@@ -8093,6 +8168,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 04:52:30 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/slab": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
     },
     "done": true
   },
@@ -8147,6 +8228,12 @@
   "bewitchment:recipes/redstone/trapped_cypress_chest": {
     "criteria": {
       "has_item": "2024-12-18 04:52:35 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-18 04:57:03 +0000"
     },
     "done": true
   },
