@@ -2420,3 +2420,5 @@ BCLib - Nether BiomeSource (60c2ed0e)
 [05:54:47] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=1570, y=-30, z=56}
 [06:03:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3631ms or 72 ticks behind
 [06:06:27] [Server thread/INFO]: Cattography has completed the challenge [Centennial]
+[06:12:05] [Server thread/INFO]: Cattography has made the advancement [Sky of Beginning]
+[06:15:51] [Server thread/INFO]: Sadoitoman has made the advancement [Scarlet Temptation]

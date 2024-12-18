@@ -8286,6 +8286,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/axes/axe_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-12-18 06:16:48 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2024-12-18 04:47:31 +0000"
@@ -8301,6 +8307,18 @@
   "regions_unexplored:recipes/building_blocks/deepslate_viridescent_nylium": {
     "criteria": {
       "has_mushroom": "2024-12-18 06:02:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/iron_ingot_from_axe": {
+    "criteria": {
+      "has_iron_axe": "2024-12-18 06:16:48 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-18 06:10:19 +0000"
     },
     "done": true
   },
@@ -8337,6 +8355,12 @@
   "handcrafted:recipes/misc/dark_oak_table": {
     "criteria": {
       "has_dark_oak_table": "2024-12-18 05:56:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-18 06:15:51 +0000"
     },
     "done": true
   },
@@ -8469,6 +8493,12 @@
   "techreborn:recipes/crafting_table/parts/digital_display": {
     "criteria": {
       "has_advanced_circuit": "2024-12-18 05:21:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_axe_with_mercury": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-18 06:10:06 +0000"
     },
     "done": true
   },
@@ -8653,6 +8683,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/mauve_shrub": {
+    "criteria": {
+      "has_mauve_sapling": "2024-12-18 06:15:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
@@ -8791,6 +8827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 06:10:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2024-12-18 05:06:28 +0000"
@@ -8887,6 +8929,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/white_dye_from_bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 06:10:19 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_sapling": {
+    "criteria": {
+      "has_apple": "2024-12-18 06:15:51 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_layer": {
     "criteria": {
       "has_item": "2024-12-18 05:23:10 +0000"
@@ -8932,6 +8986,12 @@
   "handcrafted:recipes/misc/dark_oak_shelf": {
     "criteria": {
       "has_dark_oak_shelf": "2024-12-18 05:56:19 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 06:10:19 +0000"
     },
     "done": true
   },
@@ -9127,6 +9187,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/apple_pie": {
+    "criteria": {
+      "has_apple": "2024-12-18 06:15:51 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/raw_redstone_block": {
     "criteria": {
       "has_redstone": "2024-12-18 05:07:27 +0000"
@@ -9277,6 +9343,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_axe_with_water": {
+    "criteria": {
+      "has_diamond_axe": "2024-12-18 06:10:06 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_fence": {
     "criteria": {
       "has_item": "2024-12-18 05:23:10 +0000"
@@ -9328,6 +9400,12 @@
   "croptopia:recipes/beef_jerky": {
     "criteria": {
       "has_beef": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/apple_juice": {
+    "criteria": {
+      "has_apple": "2024-12-18 06:15:51 +0000"
     },
     "done": true
   },
@@ -9505,6 +9583,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-18 06:10:19 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2024-12-18 05:36:06 +0000"
@@ -9643,6 +9727,12 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 06:10:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2024-12-18 05:06:28 +0000"
@@ -9733,6 +9823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 06:10:19 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_spade": {
     "criteria": {
       "has_nether_quartz": "2024-12-18 05:08:38 +0000"
@@ -9811,6 +9907,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/dark_oak_shrub": {
+    "criteria": {
+      "has_dark_oak_sapling": "2024-12-18 06:15:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_desk": "2024-12-18 05:56:19 +0000"
@@ -9847,6 +9949,12 @@
     },
     "done": false
   },
+  "ae2:recipes/misc/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-18 06:10:19 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2024-12-18 05:06:28 +0000"
@@ -9880,6 +9988,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 06:03:22 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2024-12-18 06:15:51 +0000"
     },
     "done": true
   },
@@ -9961,6 +10075,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/misc/green_dye_from_barrel_cactus": {
+    "criteria": {
+      "has_barrel_cactus": "2024-12-18 06:17:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2024-12-18 05:07:30 +0000"
@@ -9988,6 +10108,12 @@
   "ae2:recipes/misc/misc/tiny_tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-18 05:07:30 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/golden_apple": {
+    "criteria": {
+      "has_apple": "2024-12-18 06:15:51 +0000"
     },
     "done": true
   },
@@ -10024,6 +10150,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_slope": {
     "criteria": {
       "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 06:10:19 +0000"
     },
     "done": true
   },
@@ -10159,6 +10291,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/apple": {
+    "criteria": {
+      "has_apple": "2024-12-18 06:15:51 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/mushroom_0": {
     "criteria": {
       "has_item": "2024-12-18 06:02:38 +0000"
@@ -10261,6 +10399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 06:10:19 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_rail": {
     "criteria": {
       "has_copper_block": "2024-12-18 05:07:27 +0000"
@@ -10270,6 +10414,12 @@
   "handcrafted:recipes/misc/dark_oak_corner_trim": {
     "criteria": {
       "has_dark_oak_corner_trim": "2024-12-18 05:56:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-18 06:10:19 +0000"
     },
     "done": true
   },
@@ -10330,6 +10480,12 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_seat": {
     "criteria": {
       "has_plank": "2024-12-18 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/bone_meal": {
+    "criteria": {
+      "has_bone_meal": "2024-12-18 06:10:19 +0000"
     },
     "done": true
   },
@@ -10417,6 +10573,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-18 06:10:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/armor/quantum_leggings": {
     "criteria": {
       "has_data_storage_chip": "2024-12-18 05:29:12 +0000"
@@ -10468,6 +10630,12 @@
   "mcdw:recipes/swords/sword_freezing_foil": {
     "criteria": {
       "has_iron_nugget": "2024-12-18 04:58:38 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 06:10:19 +0000"
     },
     "done": true
   },
