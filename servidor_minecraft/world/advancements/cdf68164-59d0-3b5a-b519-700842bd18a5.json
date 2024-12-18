@@ -613,6 +613,7 @@
       "joshua_desert": "2024-12-16 00:55:56 +0000",
       "deciduous_forest": "2024-12-18 04:30:25 +0000",
       "towering_cliffs": "2024-12-16 00:17:36 +0000",
+      "chalk_cliffs": "2024-12-18 04:34:32 +0000",
       "bamboo_forest": "2024-12-16 00:53:31 +0000",
       "saguaro_desert": "2024-12-16 01:06:53 +0000",
       "baobab_savanna": "2024-12-16 01:06:14 +0000",
@@ -638,6 +639,7 @@
       "joshua_desert": "2024-12-16 00:55:56 +0000",
       "deciduous_forest": "2024-12-18 04:30:25 +0000",
       "towering_cliffs": "2024-12-16 00:17:36 +0000",
+      "chalk_cliffs": "2024-12-18 04:34:32 +0000",
       "bamboo_forest": "2024-12-16 00:53:31 +0000",
       "saguaro_desert": "2024-12-16 01:06:53 +0000",
       "baobab_savanna": "2024-12-16 01:06:14 +0000",
@@ -2575,6 +2577,7 @@
       "minecraft:beach": "2024-12-16 01:08:33 +0000",
       "minecraft:lukewarm_ocean": "2024-12-16 00:08:20 +0000",
       "minecraft:river": "2024-12-16 00:47:03 +0000",
+      "minecraft:stony_shore": "2024-12-18 04:33:29 +0000",
       "minecraft:desert": "2024-12-16 01:02:42 +0000",
       "minecraft:warm_ocean": "2024-12-16 01:10:06 +0000",
       "minecraft:savanna": "2024-12-16 01:02:24 +0000"
@@ -2604,6 +2607,7 @@
       "minecraft:pillager": "2024-12-16 00:56:40 +0000",
       "minecraft:skeleton": "2024-12-16 00:08:51 +0000",
       "minecraft:spider": "2024-12-16 00:24:08 +0000",
+      "minecraft:creeper": "2024-12-18 04:34:36 +0000",
       "minecraft:husk": "2024-12-18 04:26:02 +0000",
       "minecraft:zombie": "2024-12-18 04:31:04 +0000"
     },
@@ -8259,6 +8263,12 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-12-18 04:24:05 +0000"
@@ -8277,9 +8287,45 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/blue_dye_from_lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/food/grilled_garlic_from_smoking": {
     "criteria": {
       "has_item": "2024-12-18 04:22:59 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-18 04:41:10 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
     },
     "done": true
   },
@@ -8289,9 +8335,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-18 04:37:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/gemstone_blue": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-18 04:37:59 +0000"
     },
     "done": true
   },
@@ -8301,9 +8377,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2024-12-18 04:36:42 +0000"
+    },
+    "done": false
+  },
+  "techreborn:recipes/centrifuge/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
     },
     "done": true
   },
@@ -8331,9 +8431,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2024-12-18 04:37:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-18 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-18 04:37:39 +0000"
     },
     "done": true
   },
@@ -8358,6 +8470,18 @@
   "techreborn:recipes/grinder/saw_small_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
     },
     "done": true
   },
@@ -8400,6 +8524,24 @@
   "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2024-12-18 04:36:42 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/battery/red_cell_battery": {
+    "criteria": {
+      "has_lead_ingot": "2024-12-18 04:37:59 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
     },
     "done": true
   },
