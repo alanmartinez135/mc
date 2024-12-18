@@ -2366,3 +2366,25 @@ BCLib - Nether BiomeSource (60c2ed0e)
 [05:33:45] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=3403, y=73, z=1947}
 [05:34:25] [Server thread/WARN]: Boat (vehicle of Cattography) moved wrongly! 0.6452165451319161
 [05:34:25] [Server thread/WARN]: Boat (vehicle of Cattography) moved wrongly! 0.31693395474121644
+[05:39:01] [Worker-Main-2/WARN]: Skipping Entity with id 
+[05:39:01] [Worker-Main-3/WARN]: Skipping Entity with id 
+[05:39:03] [Worker-Main-1/WARN]: Skipping Entity with id 
+[05:39:03] [Worker-Main-3/WARN]: Skipping Entity with id 
+[05:39:06] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=3188, y=65, z=1635}
+[05:39:06] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=3188, y=65, z=1635}
+[05:39:06] [Worker-Main-1/WARN]: Skipping Entity with id 
+[05:39:08] [Worker-Main-3/WARN]: Skipping Entity with id 
+[05:39:08] [Worker-Main-1/WARN]: Skipping Entity with id 
+[05:39:08] [Worker-Main-1/WARN]: Skipping Entity with id 
+[05:39:08] [Worker-Main-3/WARN]: Skipping Entity with id 
+[05:39:08] [Worker-Main-3/WARN]: Skipping Entity with id 
+[05:39:08] [Worker-Main-3/WARN]: Skipping Entity with id 
+[05:39:09] [Worker-Main-3/WARN]: Skipping Entity with id 
+[05:39:10] [Worker-Main-1/WARN]: Skipping Entity with id 
+[05:39:10] [Worker-Main-2/WARN]: Skipping Entity with id 
+[05:39:11] [Worker-Main-3/WARN]: Skipping Entity with id 
+[05:39:11] [Worker-Main-3/WARN]: Skipping Entity with id 
+[05:39:38] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=3119, y=-45, z=1550}
+[05:40:29] [Server thread/INFO]: Sadoitoman has made the advancement [Not Today, Thank You]
+[05:40:45] [Worker-Main-2/WARN]: Tried to access a block entity before it was created. class_2338{x=2734, y=-29, z=1583}
+[05:41:54] [Server thread/INFO]: Cattography has made the advancement [Best Friends Forever]
