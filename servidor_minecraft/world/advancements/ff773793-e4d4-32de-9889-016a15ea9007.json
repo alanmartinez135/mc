@@ -3019,6 +3019,7 @@
     "criteria": {
       "minecraft:badlands": "2024-12-16 00:58:38 +0000",
       "minecraft:beach": "2024-12-16 01:05:48 +0000",
+      "minecraft:sparse_jungle": "2024-12-18 05:18:13 +0000",
       "minecraft:lukewarm_ocean": "2024-12-16 00:16:01 +0000",
       "minecraft:river": "2024-12-16 00:47:02 +0000",
       "minecraft:stony_shore": "2024-12-18 04:33:05 +0000",
@@ -8011,9 +8012,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_helmet": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:21:07 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/blade_pottery_sherd": {
     "criteria": {
       "has_iron_sword": "2024-12-18 05:10:21 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/invar_dust": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2024-12-18 05:24:45 +0000"
     },
     "done": true
   },
@@ -8059,6 +8072,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/computer_cube": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-18 05:06:24 +0000"
@@ -8092,6 +8111,12 @@
   "travelersbackpack:recipes/misc/fox": {
     "criteria": {
       "has_sweet_berries": "2024-12-18 04:37:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2024-12-18 05:27:11 +0000"
     },
     "done": true
   },
@@ -8180,6 +8205,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/invar_nugget": {
+    "criteria": {
+      "has_invar_ingot": "2024-12-18 05:24:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-18 05:07:37 +0000"
@@ -8228,6 +8259,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/armor/quantum_boots": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:21:07 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/trapdoor": {
     "criteria": {
       "has_planks": "2024-12-18 04:57:03 +0000"
@@ -8267,6 +8304,12 @@
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2024-12-18 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_nut_bread": {
+    "criteria": {
+      "has_banana": "2024-12-18 05:18:18 +0000"
     },
     "done": true
   },
@@ -8403,6 +8446,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/invar_plate": {
+    "criteria": {
+      "has_tag_c_invar_ingots": "2024-12-18 05:24:45 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit_from_industrial": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:21:07 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/fence_gate": {
     "criteria": {
       "has_planks": "2024-12-18 04:57:03 +0000"
@@ -8421,6 +8476,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2024-12-18 05:21:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_side_table": {
     "criteria": {
       "has_oak_side_table": "2024-12-18 05:06:24 +0000"
@@ -8430,6 +8491,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-18 04:25:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/invar_storage_block": {
+    "criteria": {
+      "has_invar_ingot": "2024-12-18 05:24:45 +0000"
     },
     "done": true
   },
@@ -8481,6 +8548,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_experience_bottle": {
+    "criteria": {
+      "has_experience_bottle": "2024-12-18 05:23:35 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/snow_armor_chestplate": {
     "criteria": {
       "has_iron_chestplate": "2024-12-18 05:10:27 +0000"
@@ -8529,6 +8602,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/banana_cream_pie": {
+    "criteria": {
+      "has_banana": "2024-12-18 05:18:18 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/slab": {
     "criteria": {
       "has_planks": "2024-12-18 04:57:03 +0000"
@@ -8568,6 +8647,12 @@
   "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
     "criteria": {
       "has_nether_quartz": "2024-12-18 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2024-12-18 05:27:11 +0000"
     },
     "done": true
   },
@@ -8763,6 +8848,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/banana_sapling": {
+    "criteria": {
+      "has_banana": "2024-12-18 05:18:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_chestplate": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:21:07 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/redstone_illuminator": {
     "criteria": {
       "has_redstone": "2024-12-18 05:07:37 +0000"
@@ -8790,6 +8887,12 @@
   "travelersbackpack:recipes/misc/quartz": {
     "criteria": {
       "has_quartz": "2024-12-18 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/tank/quantum_tank_unit": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 05:21:07 +0000"
     },
     "done": true
   },
@@ -8832,6 +8935,18 @@
   "botania:recipes/misc/quartz_sunny": {
     "criteria": {
       "has_item": "2024-12-18 05:08:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/banana_smoothie": {
+    "criteria": {
+      "has_banana": "2024-12-18 05:18:18 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/storage/quantum_storage_unit": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:21:07 +0000"
     },
     "done": true
   },
@@ -8880,6 +8995,18 @@
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2024-12-18 05:07:37 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/unit/upgrader/industrial_unit_upgrader": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:21:07 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/armor/quantum_leggings": {
+    "criteria": {
+      "has_data_storage_chip": "2024-12-18 05:21:07 +0000"
     },
     "done": true
   },

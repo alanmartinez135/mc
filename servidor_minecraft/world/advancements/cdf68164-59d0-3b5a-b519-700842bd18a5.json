@@ -2574,7 +2574,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:bamboo_jungle": "2024-12-18 05:22:08 +0000",
       "minecraft:beach": "2024-12-16 01:08:33 +0000",
+      "minecraft:dark_forest": "2024-12-18 05:24:27 +0000",
+      "minecraft:sparse_jungle": "2024-12-18 05:18:23 +0000",
       "minecraft:lukewarm_ocean": "2024-12-16 00:08:20 +0000",
       "minecraft:river": "2024-12-16 00:47:03 +0000",
       "minecraft:stony_shore": "2024-12-18 04:33:29 +0000",
@@ -8307,6 +8310,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/zinc_plate": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-18 04:51:47 +0000"
@@ -8403,9 +8412,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/digital_display": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-18 05:21:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2024-12-18 04:58:02 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-12-18 05:18:24 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -8467,6 +8494,24 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "supplementaries:blackboard_white": "2024-12-18 05:08:38 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slab": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/solar_panel/industrial_solar_panel_alt": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-18 05:21:29 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -8542,6 +8587,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_byte": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-18 05:07:27 +0000"
@@ -8566,9 +8617,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_stairs": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-18 05:07:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -8614,6 +8677,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/chemical_reactor": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-18 05:21:29 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_blue": {
     "criteria": {
       "has_dyes/black": "2024-12-18 04:39:19 +0000"
@@ -8638,9 +8707,33 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_layer": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slope": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2024-12-18 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_nut_bread": {
+    "criteria": {
+      "has_banana": "2024-12-18 05:18:24 +0000"
     },
     "done": true
   },
@@ -8674,6 +8767,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_light_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2024-12-18 05:06:28 +0000"
@@ -8683,6 +8782,12 @@
   "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
     "criteria": {
       "has_nether_quartz": "2024-12-18 05:08:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -8713,6 +8818,18 @@
   "promenade:recipes/crafting/maple/wood": {
     "criteria": {
       "has_log": "2024-12-18 04:56:18 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_stone_button": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/zinc_dust": {
+    "criteria": {
+      "has_tag_c_zinc_ingots": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -8830,9 +8947,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_ladder": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/fence_gate": {
     "criteria": {
       "has_planks": "2024-12-18 04:56:22 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_board": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -8848,9 +8977,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/string_from_crossbow": {
+    "criteria": {
+      "has_crossbow": "2024-12-18 05:22:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_side_table": {
     "criteria": {
       "has_oak_side_table": "2024-12-18 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_fence": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -8905,6 +9046,18 @@
   "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
       "location1": "2024-12-18 05:05:52 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_beam": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/player_detector": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-18 05:21:29 +0000"
     },
     "done": true
   },
@@ -8968,9 +9121,27 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/lapotronic_su": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-18 05:21:29 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_half_panel": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-18 05:08:38 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_block": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -8980,9 +9151,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_stairs": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2024-12-18 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/rolling_machine": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-18 05:21:29 +0000"
     },
     "done": true
   },
@@ -8998,6 +9181,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/banana_cream_pie": {
+    "criteria": {
+      "has_banana": "2024-12-18 05:18:24 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/maple/slab": {
     "criteria": {
       "has_planks": "2024-12-18 04:56:22 +0000"
@@ -9010,9 +9199,27 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_slice": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2024-12-18 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wall": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -9028,6 +9235,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/zinc_nugget": {
+    "criteria": {
+      "has_zinc_ingot": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_door": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-18 05:06:28 +0000"
@@ -9037,6 +9256,12 @@
   "vinery:main/wild_crops": {
     "criteria": {
       "white_jungle_grape_seeds": "2024-12-18 04:22:36 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2024-12-18 05:20:43 +0000"
     },
     "done": true
   },
@@ -9064,9 +9289,21 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_fence_gate": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2024-12-18 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/auto_crafting_table": {
+    "criteria": {
+      "has_advanced_circuit": "2024-12-18 05:21:29 +0000"
     },
     "done": true
   },
@@ -9091,6 +9328,12 @@
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2024-12-18 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -9139,6 +9382,12 @@
   "techreborn:recipes/grinder/saw_small_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_shaft": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -9226,6 +9475,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_corner_trim": {
     "criteria": {
       "has_oak_corner_trim": "2024-12-18 05:06:28 +0000"
@@ -9235,6 +9490,18 @@
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2024-12-18 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_vertical_slope": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -9277,6 +9544,24 @@
   "decorative_blocks:recipes/decorative_blocks.general/oak_support": {
     "criteria": {
       "has_plank": "2024-12-18 05:06:28 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-18 05:22:06 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/banana_sapling": {
+    "criteria": {
+      "has_banana": "2024-12-18 05:18:24 +0000"
     },
     "done": true
   },
@@ -9370,6 +9655,18 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_wooden_button": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/banana_smoothie": {
+    "criteria": {
+      "has_banana": "2024-12-18 05:18:24 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/nether_quartz_sword": {
     "criteria": {
       "has_nether_quartz": "2024-12-18 05:08:38 +0000"
@@ -9430,6 +9727,12 @@
     },
     "done": true
   },
+  "copycats:recipes/misc/stonecutting/copycat_stone_pressure_plate": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "oxidized:recipes/copper_pulsar": {
     "criteria": {
       "has_copper_block": "2024-12-18 05:07:27 +0000"
@@ -9439,6 +9742,18 @@
   "techreborn:recipes/industrial_sawmill/saw_dust_from_signs": {
     "criteria": {
       "has_tag_minecraft_signs": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_ghost_block": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/zinc_storage_block": {
+    "criteria": {
+      "has_zinc_ingot": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
@@ -9496,6 +9811,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/copycat_step_from_zinc_ingots_stonecutting": {
+    "criteria": {
+      "has_zinc_ingots": "2024-12-18 05:23:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
     "criteria": {
       "has_item": "2024-12-18 05:07:27 +0000"
@@ -9505,6 +9826,12 @@
   "oxidized:recipes/copper_barometer": {
     "criteria": {
       "has_copper_block": "2024-12-18 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/fruit_salad": {
+    "criteria": {
+      "has_banana": "2024-12-18 05:18:24 +0000"
     },
     "done": true
   },
@@ -9529,6 +9856,12 @@
   "supplementaries:recipes/lapis_bricks": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/misc/stonecutting/copycat_half_layer": {
+    "criteria": {
+      "has_item": "2024-12-18 05:23:10 +0000"
     },
     "done": true
   },
