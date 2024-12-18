@@ -2579,6 +2579,7 @@
       "minecraft:river": "2024-12-16 00:47:03 +0000",
       "minecraft:stony_shore": "2024-12-18 04:33:29 +0000",
       "minecraft:desert": "2024-12-16 01:02:42 +0000",
+      "minecraft:jungle": "2024-12-18 04:49:50 +0000",
       "minecraft:warm_ocean": "2024-12-16 01:10:06 +0000",
       "minecraft:savanna": "2024-12-16 01:02:24 +0000"
     },
@@ -2609,6 +2610,7 @@
       "minecraft:spider": "2024-12-16 00:24:08 +0000",
       "minecraft:creeper": "2024-12-18 04:34:36 +0000",
       "minecraft:husk": "2024-12-18 04:26:02 +0000",
+      "minecraft:cave_spider": "2024-12-18 04:51:53 +0000",
       "minecraft:zombie": "2024-12-18 04:31:04 +0000"
     },
     "done": false
@@ -8263,9 +8265,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-18 04:47:31 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
     "criteria": {
       "has_dye": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-18 04:51:47 +0000"
     },
     "done": true
   },
@@ -8305,6 +8319,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2024-12-18 04:47:31 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_covered_blue": {
     "criteria": {
       "has_dyes/black": "2024-12-18 04:39:19 +0000"
@@ -8326,6 +8346,18 @@
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-18 04:43:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-18 04:51:47 +0000"
     },
     "done": true
   },
@@ -8365,6 +8397,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-18 04:43:20 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
     "criteria": {
       "has_lead_ingot": "2024-12-18 04:37:59 +0000"
@@ -8374,6 +8412,12 @@
   "croptopia:recipes/hamburger": {
     "criteria": {
       "has_beef": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-18 04:51:47 +0000"
     },
     "done": true
   },
@@ -8404,6 +8448,36 @@
   "techreborn:recipes/centrifuge/lapis_lazuli": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-18 04:39:19 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-18 04:47:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_dust_from_pickaxe_with_mercury": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-18 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_pickaxe_with_water": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-18 04:46:51 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-12-18 04:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-18 04:51:47 +0000"
     },
     "done": true
   },
@@ -8443,9 +8517,27 @@
     },
     "done": true
   },
+  "mcdw:recipes/double_axes/double_axe_cursed": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-18 04:43:20 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-12-18 04:37:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-18 04:51:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-18 04:43:20 +0000"
     },
     "done": true
   },
@@ -8458,6 +8550,12 @@
   "mcda:recipes/crafting_items/glut_charm": {
     "criteria": {
       "has_beef": "2024-12-18 04:20:43 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2024-12-18 04:47:31 +0000"
     },
     "done": true
   },
@@ -8512,6 +8610,12 @@
   "bewitchment:recipes/food/grilled_garlic": {
     "criteria": {
       "has_item": "2024-12-18 04:22:59 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/leather": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-18 04:43:20 +0000"
     },
     "done": true
   },
