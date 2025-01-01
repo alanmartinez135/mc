@@ -11218,6 +11218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-01 23:11:44 +0000"
@@ -11344,9 +11350,21 @@
     },
     "done": true
   },
+  "mcdw:recipes/bows/bow_shivering_bow": {
+    "criteria": {
+      "has_blue_ice": "2025-01-01 23:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-01-01 23:09:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -11416,6 +11434,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-01-01 23:33:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_shingle_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
@@ -11434,6 +11458,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/daggers/dagger_fangs_of_frost": {
+    "criteria": {
+      "has_blue_ice": "2025-01-01 23:35:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 22:54:09 +0000"
@@ -11443,6 +11473,12 @@
   "create:recipes/building_blocks/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -11476,6 +11512,12 @@
     },
     "done": true
   },
+  "simplyswords:wickpiercer": {
+    "criteria": {
+      "requirement": "2025-01-01 23:30:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 22:56:35 +0000"
@@ -11500,6 +11542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
@@ -11515,6 +11563,12 @@
   "bewitchment:recipes/building_blocks/salt_block": {
     "criteria": {
       "has_item": "2025-01-01 22:55:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -11554,9 +11608,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -11626,6 +11692,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "simplyswords:storms_edge": {
     "criteria": {
       "requirement": "2025-01-01 23:28:56 +0000"
@@ -11662,6 +11740,12 @@
     },
     "done": true
   },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
@@ -11671,6 +11755,12 @@
   "stoneworks:recipes/building_blocks/diorite_plate_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -11716,6 +11806,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_stairs_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-01-01 23:35:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 22:54:09 +0000"
@@ -11734,9 +11830,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 23:33:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -11770,6 +11878,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_wall_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-01-01 23:35:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_paver_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
@@ -11791,6 +11905,12 @@
   "fwaystones:recipes/abyss_watcher": {
     "criteria": {
       "has_ender_pearl": "2025-01-01 23:20:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -11860,6 +11980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
@@ -11869,6 +11995,12 @@
   "stoneworks:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -11890,6 +12022,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismaglass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
@@ -11899,6 +12037,12 @@
   "techreborn:recipes/centrifuge/raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-01-01 22:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -11953,6 +12097,12 @@
   "supplementaries:recipes/stone_tile_slab": {
     "criteria": {
       "has_stone_tile": "2025-01-01 22:59:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -12022,6 +12172,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/building_block/cut_blue_ice_slab_from_blue_ice_stonecutting": {
+    "criteria": {
+      "has_blue_ice": "2025-01-01 23:35:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 22:56:35 +0000"
@@ -12031,6 +12187,12 @@
   "twigs:recipes/tuff/tuff_slab": {
     "criteria": {
       "has_item": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -12055,6 +12217,12 @@
   "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -12118,6 +12286,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 22:54:09 +0000"
@@ -12151,6 +12325,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/building_block/cut_blue_ice": {
+    "criteria": {
+      "has_blue_ice": "2025-01-01 23:35:15 +0000"
     },
     "done": true
   },
@@ -12190,6 +12370,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-01-01 23:33:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
@@ -12205,6 +12391,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -12364,6 +12556,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cracked_cobblestone_bricks": {
     "criteria": {
       "has_item": "2025-01-01 22:53:25 +0000"
@@ -12430,6 +12628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
@@ -12460,9 +12664,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
       "has_log": "2025-01-01 23:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },
@@ -12484,9 +12700,27 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:31:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-01 23:33:49 +0000"
     },
     "done": true
   },
@@ -12523,6 +12757,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-01 23:31:16 +0000"
     },
     "done": true
   },

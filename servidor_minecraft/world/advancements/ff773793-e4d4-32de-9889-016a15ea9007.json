@@ -10217,9 +10217,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/brazier": {
     "criteria": {
       "has_bar": "2025-01-01 22:55:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-01-01 23:38:47 +0000"
     },
     "done": true
   },
@@ -10229,9 +10259,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-01-01 23:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
@@ -10241,9 +10283,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/glassfiber_cable_6": {
     "criteria": {
       "has_raw_silver": "2025-01-01 22:53:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_door": {
+    "criteria": {
+      "has_item": "2025-01-01 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
@@ -10253,9 +10319,27 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-01-01 22:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
@@ -10265,9 +10349,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-01-01 22:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/vertical_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
@@ -10280,6 +10388,36 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-01-01 22:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:storms_edge": {
+    "criteria": {
+      "requirement": "2025-01-01 23:29:52 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
@@ -10301,6 +10439,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_pane": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass_alt": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/soul_brazier": {
     "criteria": {
       "has_bar": "2025-01-01 22:55:24 +0000"
@@ -10310,6 +10466,12 @@
   "twigs:recipes/lamps/lamp": {
     "criteria": {
       "has_item": "2025-01-01 23:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
@@ -10337,9 +10499,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
     "criteria": {
       "has_tag_minecraft_wooden_stairs": "2025-01-01 23:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/jar": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
@@ -10361,15 +10541,45 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/prismaglass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/kitchen_hood": {
     "criteria": {
       "has_kitchen_hood": "2025-01-01 22:55:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_bricks": {
     "criteria": {
       "has_smooth_stone": "2025-01-01 22:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
     },
     "done": true
   },
@@ -10385,9 +10595,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
+    "criteria": {
+      "has_plank": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_brick_stonecutting": {
     "criteria": {
       "has_smooth_stone_bricks": "2025-01-01 23:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
@@ -10403,15 +10631,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/raw_raw_silver_storage_block": {
     "criteria": {
       "has_raw_silver": "2025-01-01 22:53:49 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/misc_block/reinforced_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-01-01 22:58:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-01-01 23:38:47 +0000"
     },
     "done": true
   },
@@ -10427,6 +10673,36 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/glass_from_framed_glass": {
+    "criteria": {
+      "has_item": "2025-01-01 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
     "criteria": {
       "has_tag_c_raw_silver_ores": "2025-01-01 22:53:49 +0000"
@@ -10439,9 +10715,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab": {
     "criteria": {
       "has_smooth_stone_bricks": "2025-01-01 23:00:08 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
+    "criteria": {
+      "has_birch_stairs": "2025-01-01 23:38:48 +0000"
     },
     "done": true
   },
@@ -10451,9 +10745,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/assembling_machine/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_smooth_stone": "2025-01-01 22:58:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-01-01 23:38:47 +0000"
     },
     "done": true
   },
@@ -10463,9 +10775,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
   "graveyard:graveyard/kill_graveyard_mob": {
     "criteria": {
       "ghoul": "2025-01-01 23:22:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
@@ -10474,6 +10810,18 @@
       "crit_1": "2025-01-01 22:53:49 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/framed_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
   },
   "techreborn:recipes/chemical_reactor/leather": {
     "criteria": {
@@ -10493,9 +10841,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_box": {
+    "criteria": {
+      "has_glass": "2025-01-01 23:33:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/framed_glass_trapdoor": {
+    "criteria": {
+      "has_item": "2025-01-01 23:33:50 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-01-01 22:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:38:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_colorless_glass_stonecutting": {
+    "criteria": {
+      "has_colorless_glass": "2025-01-01 23:33:31 +0000"
     },
     "done": true
   },
