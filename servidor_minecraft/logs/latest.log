@@ -2300,3 +2300,4 @@ BCLib - Nether BiomeSource (1140a8a5)
 [22:47:38] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Cattography. Claiming: GRAVE / Robbing: INVENTORY
 [22:47:40] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Cattography accepted server config.
 [22:48:09] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[22:59:14] [Server thread/INFO]: Cattography has made the advancement [Novice Spellcaster]
