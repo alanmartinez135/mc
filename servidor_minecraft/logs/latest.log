@@ -2302,3 +2302,9 @@ BCLib - Nether BiomeSource (1140a8a5)
 [22:48:09] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
 [22:59:14] [Server thread/INFO]: Cattography has made the advancement [Novice Spellcaster]
 [23:22:01] [Server thread/INFO]: Cattography has made the advancement [Stay dead]
+[23:25:09] [Server thread/INFO]: Made Sadoitoman a server operator
+[23:25:09] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Sadoitoman accepted server config.
+[23:25:22] [Server thread/INFO]: [Sadoitoman: Set own game mode to Creative Mode]
+[23:28:56] [Server thread/INFO]: Sadoitoman has made the advancement [Lightning Strikes Twice]
+[23:29:52] [Server thread/INFO]: Cattography has made the advancement [Lightning Strikes Twice]
+[23:30:13] [Server thread/INFO]: Sadoitoman has made the advancement [Wax Off]
