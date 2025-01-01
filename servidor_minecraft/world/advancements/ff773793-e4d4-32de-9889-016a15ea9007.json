@@ -831,6 +831,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "silver_birch_log": "2025-01-01 23:13:23 +0000",
       "redwood_log": "2024-12-16 00:10:48 +0000"
     },
     "done": false
@@ -10220,6 +10221,18 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2025-01-01 23:13:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 23:13:23 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_wall": {
     "criteria": {
       "has_smooth_stone_bricks": "2025-01-01 23:00:08 +0000"
@@ -10259,6 +10272,12 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-01-01 22:58:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-01-01 23:14:10 +0000"
     },
     "done": true
   },
@@ -10376,6 +10395,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 23:13:23 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorations/torch_from_chandelier": {
     "criteria": {
       "has_torch": "2025-01-01 23:02:24 +0000"
@@ -10385,6 +10410,12 @@
   "techreborn:recipes/misc/blasting/silver_ingot_from_c_raw_silver_ores": {
     "criteria": {
       "has_tag_c_raw_silver_ores": "2025-01-01 22:53:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-01 23:14:10 +0000"
     },
     "done": true
   },
@@ -10421,6 +10452,12 @@
   "techreborn:recipes/industrial_sawmill/dark_oak_slab_from_stairs": {
     "criteria": {
       "has_dark_oak_stairs": "2025-01-01 23:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 23:14:10 +0000"
     },
     "done": true
   },

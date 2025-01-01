@@ -689,6 +689,7 @@
   "regions_unexplored:got_wood": {
     "criteria": {
       "mauve_log": "2024-12-16 00:59:59 +0000",
+      "silver_birch_log": "2025-01-01 23:09:50 +0000",
       "redwood_log": "2024-12-16 00:06:10 +0000"
     },
     "done": false
@@ -11216,6 +11217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab": {
     "criteria": {
       "has_item": "2025-01-01 22:53:25 +0000"
@@ -11252,6 +11259,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 22:54:09 +0000"
@@ -11264,9 +11277,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab_stonecutting": {
     "criteria": {
       "has_item": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/silver_birch_branch_from_silver_birch_log": {
+    "criteria": {
+      "has_log": "2025-01-01 23:09:50 +0000"
     },
     "done": true
   },
@@ -11294,9 +11325,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-01 23:09:50 +0000"
     },
     "done": true
   },
@@ -11315,6 +11358,12 @@
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -11360,6 +11409,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
@@ -11384,6 +11439,12 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
@@ -11405,6 +11466,12 @@
   "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -11465,6 +11532,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -11564,6 +11637,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/decorations/enchanted_birch_shrub": {
+    "criteria": {
+      "has_enchanted_birch_sapling": "2025-01-01 23:09:50 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
@@ -11579,6 +11658,12 @@
   "stoneworks:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-01-01 23:13:45 +0000"
     },
     "done": true
   },
@@ -11666,6 +11751,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2025-01-01 22:56:35 +0000"
@@ -11726,6 +11817,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_stairs": {
+    "criteria": {
+      "has_tag_minecraft_wooden_stairs": "2025-01-01 23:11:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
@@ -11768,9 +11871,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/moai": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -11801,6 +11922,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-01-01 22:56:37 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_support": {
+    "criteria": {
+      "has_plank": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -11960,9 +12087,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/silver_birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 23:09:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/birch_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -11981,6 +12132,12 @@
   "stoneworks:recipes/building_blocks/diorite_plates_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -12020,6 +12177,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-01 23:13:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/smooth_stone_bricks/smooth_stone_brick_slab": {
     "criteria": {
       "has_smooth_stone_bricks": "2025-01-01 23:00:11 +0000"
@@ -12029,6 +12204,12 @@
   "stoneworks:recipes/building_blocks/mossy_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/birch_slab_from_stairs": {
+    "criteria": {
+      "has_birch_stairs": "2025-01-01 23:11:51 +0000"
     },
     "done": true
   },
@@ -12056,9 +12237,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -12083,6 +12276,12 @@
   "techreborn:recipes/misc/blasting/lead_ingot_from_c_raw_lead_ores": {
     "criteria": {
       "has_tag_c_raw_lead_ores": "2025-01-01 22:53:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -12140,6 +12339,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/stone_tile_wall_from_bricks": {
     "criteria": {
       "has_stone_tile": "2025-01-01 22:59:16 +0000"
@@ -12155,6 +12360,12 @@
   "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -12176,9 +12387,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 23:13:45 +0000"
     },
     "done": true
   },
@@ -12188,9 +12411,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
@@ -12209,6 +12444,18 @@
   "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-01 23:11:44 +0000"
     },
     "done": true
   },
