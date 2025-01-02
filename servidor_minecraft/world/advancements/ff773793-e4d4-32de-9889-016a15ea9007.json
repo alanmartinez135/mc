@@ -17785,6 +17785,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/rubber_from_rubber_sapling": {
+    "criteria": {
+      "has_rubber_sapling": "2025-01-02 05:43:19 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_axe": {
     "criteria": {
       "has_sapphire_gem": "2025-01-02 04:25:28 +0000"
@@ -17827,6 +17833,12 @@
     },
     "done": true
   },
+  "techreborn:sap": {
+    "criteria": {
+      "crit_0": "2025-01-02 05:44:36 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/tool/sapphire_pickaxe": {
     "criteria": {
       "has_sapphire_gem": "2025-01-02 04:25:28 +0000"
@@ -17842,6 +17854,12 @@
   "techreborn:recipes/grinder/sapphire_dust": {
     "criteria": {
       "has_tag_c_sapphires": "2025-01-02 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_small_dust_from_treetap": {
+    "criteria": {
+      "has_treetap": "2025-01-02 05:43:08 +0000"
     },
     "done": true
   },
@@ -17989,6 +18007,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/stick_from_armor_stand": {
+    "criteria": {
+      "has_sap": "2025-01-02 05:44:36 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_slabs_stonecutting": {
     "criteria": {
       "has_block.minecraft.basalt": "2025-01-02 05:37:38 +0000"
@@ -18067,6 +18091,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/sap": {
+    "criteria": {
+      "has_sap": "2025-01-02 05:44:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
@@ -18127,6 +18157,12 @@
     },
     "done": true
   },
+  "techreborn:treetap": {
+    "criteria": {
+      "crit_0": "2025-01-02 05:43:08 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
     "criteria": {
       "has_tag_minecraft_wooden_trapdoors": "2025-01-02 04:14:35 +0000"
@@ -18142,6 +18178,12 @@
   "stoneworks:recipes/building_blocks/basalt_paver_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_sap": {
+    "criteria": {
+      "has_sap": "2025-01-02 05:44:36 +0000"
     },
     "done": true
   },
