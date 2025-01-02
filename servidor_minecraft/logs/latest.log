@@ -6,3 +6,11 @@
 [00:33:38] [Server thread/INFO]: <Sadoitoman> toms simple storage
 [00:35:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Sadoitoman accepted server config.
 [00:38:13] [Server thread/INFO]: <Sadoitoman> DarkUtilities
+[00:48:31] [Server thread/INFO]: No return portal found
+[00:48:31] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Sadoitoman accepted server config.
+[00:48:40] [Server thread/INFO]: Sadoitoman has made the advancement [Nether Depths Upgrade]
+[00:48:40] [Server thread/INFO]: Sadoitoman has made the advancement [We Need to Go Deeper]
+[00:48:40] [Server thread/INFO]: Sadoitoman has made the advancement [Time for a Sweat]
+[00:48:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15412ms or 308 ticks behind
+[00:49:56] [Server thread/INFO]: Cattography has made the advancement [False Water]
+[00:51:33] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Sadoitoman accepted server config.
