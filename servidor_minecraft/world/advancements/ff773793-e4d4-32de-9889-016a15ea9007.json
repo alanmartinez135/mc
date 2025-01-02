@@ -602,7 +602,10 @@
       "mauve_hills": "2024-12-16 00:50:36 +0000",
       "dry_bushland": "2024-12-16 00:56:48 +0000",
       "redstone_abyss": "2025-01-02 01:07:12 +0000",
+      "pine_taiga": "2025-01-02 03:04:59 +0000",
       "sparse_rainforest": "2024-12-16 01:07:06 +0000",
+      "bayou": "2025-01-02 03:05:14 +0000",
+      "marsh": "2025-01-02 03:05:48 +0000",
       "willow_forest": "2025-01-02 02:13:27 +0000",
       "barley_fields": "2024-12-16 00:48:52 +0000",
       "rocky_reef": "2024-12-16 01:05:54 +0000",
@@ -614,6 +617,7 @@
       "sparse_redwoods": "2024-12-16 00:09:07 +0000",
       "joshua_desert": "2024-12-16 00:55:49 +0000",
       "deciduous_forest": "2024-12-18 04:30:21 +0000",
+      "fungal_fen": "2025-01-02 03:14:59 +0000",
       "towering_cliffs": "2024-12-16 00:41:27 +0000",
       "chalk_cliffs": "2024-12-18 04:34:34 +0000",
       "bamboo_forest": "2024-12-16 00:52:08 +0000",
@@ -623,7 +627,8 @@
       "grassland": "2024-12-16 00:46:47 +0000",
       "prairie": "2024-12-16 00:47:05 +0000",
       "redwoods": "2024-12-16 00:54:44 +0000",
-      "rainforest": "2024-12-16 01:09:38 +0000"
+      "rainforest": "2024-12-16 01:09:38 +0000",
+      "lupine_plains": "2025-01-02 03:05:12 +0000"
     },
     "done": false
   },
@@ -631,7 +636,10 @@
     "criteria": {
       "mauve_hills": "2024-12-16 00:50:36 +0000",
       "dry_bushland": "2024-12-16 00:56:48 +0000",
+      "pine_taiga": "2025-01-02 03:04:59 +0000",
       "sparse_rainforest": "2024-12-16 01:07:06 +0000",
+      "bayou": "2025-01-02 03:05:14 +0000",
+      "marsh": "2025-01-02 03:05:48 +0000",
       "willow_forest": "2025-01-02 02:13:27 +0000",
       "barley_fields": "2024-12-16 00:48:52 +0000",
       "rocky_reef": "2024-12-16 01:05:54 +0000",
@@ -643,6 +651,7 @@
       "sparse_redwoods": "2024-12-16 00:09:07 +0000",
       "joshua_desert": "2024-12-16 00:55:49 +0000",
       "deciduous_forest": "2024-12-18 04:30:21 +0000",
+      "fungal_fen": "2025-01-02 03:14:59 +0000",
       "towering_cliffs": "2024-12-16 00:41:27 +0000",
       "chalk_cliffs": "2024-12-18 04:34:34 +0000",
       "bamboo_forest": "2024-12-16 00:52:08 +0000",
@@ -652,7 +661,8 @@
       "grassland": "2024-12-16 00:46:47 +0000",
       "prairie": "2024-12-16 00:47:05 +0000",
       "redwoods": "2024-12-16 00:54:44 +0000",
-      "rainforest": "2024-12-16 01:09:38 +0000"
+      "rainforest": "2024-12-16 01:09:38 +0000",
+      "lupine_plains": "2025-01-02 03:05:12 +0000"
     },
     "done": false
   },
@@ -3030,6 +3040,7 @@
       "minecraft:badlands": "2024-12-16 00:58:38 +0000",
       "minecraft:beach": "2024-12-16 01:05:48 +0000",
       "minecraft:dark_forest": "2024-12-18 05:29:39 +0000",
+      "minecraft:mangrove_swamp": "2025-01-02 03:06:22 +0000",
       "minecraft:sparse_jungle": "2024-12-18 05:18:13 +0000",
       "minecraft:lukewarm_ocean": "2024-12-16 00:16:01 +0000",
       "minecraft:river": "2024-12-16 00:47:02 +0000",
@@ -4760,6 +4771,7 @@
       "minecraft:magma_cube": "2025-01-02 01:15:01 +0000",
       "minecraft:spider": "2025-01-01 23:22:17 +0000",
       "minecraft:piglin_brute": "2025-01-02 02:14:47 +0000",
+      "minecraft:witch": "2025-01-02 03:09:49 +0000",
       "minecraft:wither_skeleton": "2024-12-16 00:25:52 +0000",
       "minecraft:husk": "2024-12-18 04:25:48 +0000",
       "minecraft:piglin": "2025-01-02 02:17:58 +0000",
@@ -17455,6 +17467,187 @@
   "mcda:recipes/upgrade_cores/upgrade_core_golden": {
     "criteria": {
       "has_core_specification_item": "2025-01-02 02:26:12 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-01-02 03:12:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_sugar": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:all_black": "2025-01-02 03:13:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-02 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candied_nuts": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000",
+      "has_the_recipe": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/candy_corn": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/glass_bottle_from_potion": {
+    "criteria": {
+      "has_potion": "2025-01-02 03:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-02 03:11:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/magma_cream": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sugar_cube": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_caramel": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/rubber_from_slime_ball": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-01-02 03:12:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nutty_cookie": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pancake_fd": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-02 03:11:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sugar": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-01-02 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-02 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_gunpowder": "2025-01-02 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/caramel_from_smoking_sugar": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/nougat": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-01-02 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_spider": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-02 03:11:28 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/blast_furnace/danger_pottery_sherd": {
+    "criteria": {
+      "has_gunpowder": "2025-01-02 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 03:12:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-02 03:11:29 +0000"
     },
     "done": true
   },
