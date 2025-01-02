@@ -605,6 +605,7 @@
       "pine_taiga": "2025-01-02 03:04:59 +0000",
       "sparse_rainforest": "2024-12-16 01:07:06 +0000",
       "bayou": "2025-01-02 03:05:14 +0000",
+      "autumnal_maple_forest": "2025-01-02 04:07:59 +0000",
       "marsh": "2025-01-02 03:05:48 +0000",
       "willow_forest": "2025-01-02 02:13:27 +0000",
       "barley_fields": "2024-12-16 00:48:52 +0000",
@@ -640,6 +641,7 @@
       "pine_taiga": "2025-01-02 03:04:59 +0000",
       "sparse_rainforest": "2024-12-16 01:07:06 +0000",
       "bayou": "2025-01-02 03:05:14 +0000",
+      "autumnal_maple_forest": "2025-01-02 04:07:59 +0000",
       "marsh": "2025-01-02 03:05:48 +0000",
       "willow_forest": "2025-01-02 02:13:27 +0000",
       "barley_fields": "2024-12-16 00:48:52 +0000",
@@ -3038,6 +3040,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-01-02 04:07:32 +0000",
       "minecraft:windswept_hills": "2025-01-02 03:51:09 +0000",
       "minecraft:bamboo_jungle": "2024-12-18 05:29:36 +0000",
       "minecraft:badlands": "2024-12-16 00:58:38 +0000",
@@ -3057,6 +3060,7 @@
       "minecraft:windswept_savanna": "2025-01-02 03:50:31 +0000",
       "minecraft:warm_ocean": "2024-12-16 01:06:11 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-18 05:02:54 +0000",
+      "minecraft:flower_forest": "2025-01-02 04:06:42 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-18 05:28:49 +0000",
       "minecraft:savanna": "2024-12-18 04:32:32 +0000",
       "minecraft:plains": "2024-12-18 04:54:02 +0000"
@@ -17676,9 +17680,99 @@
     },
     "done": true
   },
+  "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-01-02 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/goat_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-02 04:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-02 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/spruce_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-01-02 04:14:34 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/unique_armors/archers_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-02 04:09:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-02 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/spruce_pressure_plate_from_slab": {
+    "criteria": {
+      "has_spruce_slab": "2025-01-02 04:14:34 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-02 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/scale_mail_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-02 04:09:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "has_cobblestone_slab": "2025-01-02 04:12:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-02 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-02 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_sawmill/saw_dust_from_wooden_trapdoors": {
+    "criteria": {
+      "has_tag_minecraft_wooden_trapdoors": "2025-01-02 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/upper_bone_staff": {
+    "criteria": {
+      "upper_bone_staff": "2025-01-02 04:14:36 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2025-01-02 03:55:55 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/climbing_gear_leggings": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-02 04:09:25 +0000"
     },
     "done": true
   },
