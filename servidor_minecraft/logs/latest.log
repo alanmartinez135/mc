@@ -293,3 +293,5 @@ Caused by: java.util.ConcurrentModificationException
 [06:16:27] [Server thread/WARN]: Cattography moved wrongly!
 [06:17:09] [Server thread/INFO]: Cattography has made the advancement [The Beginning]
 [06:20:22] [Server thread/INFO]: Cattography has made the advancement [Full Moon in a Pocket]
+[06:28:23] [Server thread/INFO]: [STDOUT]: class_1642['Zombie'/132936, l='ServerLevel[world]', x=1721.06, y=-2.45, z=48.34]
+[06:28:28] [Server thread/INFO]: [STDOUT]: null
