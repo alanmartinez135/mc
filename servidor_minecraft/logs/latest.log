@@ -36,3 +36,12 @@
 [01:04:26] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Cattography -> Global
 [01:04:26] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Cattography. Claiming: GRAVE / Robbing: INVENTORY
 [01:04:27] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Cattography accepted server config.
+[01:07:12] [Server thread/INFO]: No return portal found
+[01:07:12] [Server thread/INFO]: Cattography has made the advancement [Nether Depths Upgrade]
+[01:07:12] [Server thread/INFO]: Cattography has made the advancement [We Need to Go Deeper]
+[01:07:12] [Server thread/INFO]: Cattography has made the advancement [Time for a Sweat]
+[01:07:12] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Cattography accepted server config.
+[01:12:18] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Sadoitoman accepted server config.
+[01:12:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Sadoitoman accepted server config.
+[01:12:57] [Server thread/INFO]: Sadoitoman has made the advancement [Refined Iron]
+[01:13:05] [Server thread/INFO]: Sadoitoman has made the advancement [Suit Up]
