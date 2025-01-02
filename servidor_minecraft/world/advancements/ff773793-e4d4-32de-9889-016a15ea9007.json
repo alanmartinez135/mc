@@ -18848,6 +18848,12 @@
     },
     "done": true
   },
+  "vinery:recipes/loam": {
+    "criteria": {
+      "has_clay_ball": "2025-01-02 23:05:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
     "criteria": {
       "has_rubber": "2025-01-02 22:34:58 +0000"
@@ -18932,6 +18938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-02 23:05:02 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/silver_leggings": {
     "criteria": {
       "has_silver_ingot": "2025-01-02 22:59:23 +0000"
@@ -18941,6 +18953,12 @@
   "bewitchment:recipes/decorations/brazier": {
     "criteria": {
       "has_item": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-02 23:05:02 +0000"
     },
     "done": true
   },
