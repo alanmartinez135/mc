@@ -14,3 +14,25 @@
 [00:48:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15412ms or 308 ticks behind
 [00:49:56] [Server thread/INFO]: Cattography has made the advancement [False Water]
 [00:51:33] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Sadoitoman accepted server config.
+[00:57:03] [Server thread/INFO]: Cattography has made the advancement [Hot Stuff]
+[01:04:19] [Server thread/INFO]: Cattography lost connection: Disconnected
+[01:04:19] [Server thread/INFO]: Cattography left the game
+[01:04:19] [Server thread/INFO]: remove player wand
+[01:04:19] [Server thread/INFO]: Updating all forceload tickets for ff773793-e4d4-32de-9889-016a15ea9007
+[01:04:24] [Server thread/INFO]: [Handshake] Sending channel query
+[01:04:24] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[01:04:24] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[01:04:24] [Server thread/INFO]: Cattography[/100.123.42.122:55133] logged in with entity id 26065 at (1793.241977038498, 65.0, 47.54401363990671)
+[01:04:24] [Server thread/INFO]: Sending server config values to client
+[01:04:24] [Server thread/INFO]: Syncing config to Cattography (ff773793-e4d4-32de-9889-016a15ea9007)
+[01:04:24] [Server thread/INFO]: Loading config from file...
+[01:04:24] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[01:04:24] [Server thread/INFO]: Cattography joined the game
+[01:04:24] [Server thread/INFO]: Updating all forceload tickets for ff773793-e4d4-32de-9889-016a15ea9007
+[01:04:24] [Server thread/INFO]: PLAYER_JOIN
+[01:04:24] [Server thread/INFO]: add_player wand
+[01:04:24] [Server thread/INFO]: config sent
+[01:04:26] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[01:04:26] [Netty Epoll Server IO #1/INFO]: [Ping-Wheel] Channel update: Cattography -> Global
+[01:04:26] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Cattography. Claiming: GRAVE / Robbing: INVENTORY
+[01:04:27] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Cattography accepted server config.

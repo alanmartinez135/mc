@@ -11261,6 +11261,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 00:50:43 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:eternal_expedition": {
     "criteria": {
       "redstone_abyss": "2025-01-02 00:48:48 +0000"
@@ -11294,6 +11300,12 @@
   "handcrafted:recipes/misc/birch_nightstand": {
     "criteria": {
       "has_birch_nightstand": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 00:50:43 +0000"
     },
     "done": true
   },
@@ -11561,6 +11573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-02 00:50:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
@@ -11588,6 +11606,12 @@
   "techreborn:recipes/chemical_reactor/light_blue_stained_glass_pane_from_white_stained_glass_pane_with_blue_dye": {
     "criteria": {
       "has_blue_dye": "2025-01-02 00:21:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/silt/silt_brick": {
+    "criteria": {
+      "has_item": "2025-01-02 00:50:17 +0000"
     },
     "done": true
   },
@@ -11735,6 +11759,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/extractor/glass_bottle_from_splash_potion": {
+    "criteria": {
+      "has_splash_potion": "2025-01-02 00:59:53 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
@@ -11744,6 +11774,12 @@
   "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/yellow_garnet_storage_block": {
+    "criteria": {
+      "has_yellow_garnet_gem": "2025-01-02 00:50:36 +0000"
     },
     "done": true
   },
@@ -12083,6 +12119,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_electrolyzer/sand": {
+    "criteria": {
+      "has_sand": "2025-01-02 00:53:40 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_stonecutting": {
     "criteria": {
       "has_item": "2025-01-01 22:53:25 +0000"
@@ -12413,6 +12455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 00:50:43 +0000"
+    },
+    "done": true
+  },
   "herbalbrews:recipes/copper_tea_kettle": {
     "criteria": {
       "has_copper_ingot": "2025-01-02 00:10:02 +0000"
@@ -12605,6 +12653,12 @@
     },
     "done": true
   },
+  "mcda:recipes/upgrade_cores/upgrade_core_magicked": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-02 00:50:55 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2025-01-01 22:56:35 +0000"
@@ -12674,6 +12728,12 @@
   "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_electrolyzer/sphalerite_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-01-02 00:50:32 +0000"
     },
     "done": true
   },
@@ -12749,9 +12809,21 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_silt_balls": {
+    "criteria": {
+      "has_item": "2025-01-02 00:50:17 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_diorite_bricks_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-01 22:54:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 00:50:43 +0000"
     },
     "done": true
   },
@@ -12956,6 +13028,12 @@
   "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-01-02 00:47:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/grinder/yellow_garnet_dust": {
+    "criteria": {
+      "has_tag_c_yellow_garnet_gems": "2025-01-02 00:50:36 +0000"
     },
     "done": true
   },
@@ -13385,6 +13463,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 00:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-01 22:56:35 +0000"
@@ -13526,6 +13610,18 @@
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-01-01 23:11:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-02 00:53:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_glowstone": "2025-01-02 00:50:55 +0000"
     },
     "done": true
   },
@@ -13883,6 +13979,12 @@
     },
     "done": true
   },
+  "twigs:recipes/silt/silt_from_sand": {
+    "criteria": {
+      "has_item": "2025-01-02 00:53:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-02 00:12:23 +0000"
@@ -14093,6 +14195,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/sphalerite_small_dust_from_dust": {
+    "criteria": {
+      "has_sphalerite_dust": "2025-01-02 00:50:32 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/building_blocks/dye_green_sleeping_bag": {
     "criteria": {
       "has_needed_dye": "2025-01-02 00:21:31 +0000"
@@ -14125,9 +14233,16 @@
   },
   "techreborn:root": {
     "criteria": {
+      "crit_2": "2025-01-02 00:50:36 +0000",
       "crit_1": "2025-01-01 22:53:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-02 00:53:40 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
