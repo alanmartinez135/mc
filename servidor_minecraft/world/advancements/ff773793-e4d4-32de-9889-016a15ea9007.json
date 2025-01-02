@@ -15662,7 +15662,14 @@
     "criteria": {
       "betternether:gravel_desert": "2025-01-02 01:40:00 +0000",
       "betternether:old_swampland": "2025-01-02 01:14:44 +0000",
-      "betternether:nether_swampland": "2025-01-02 01:39:20 +0000"
+      "betternether:nether_swampland": "2025-01-02 01:39:20 +0000",
+      "betternether:nether_swampland_terraces": "2025-01-02 01:46:03 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-01-02 01:46:43 +0000"
     },
     "done": false
   },
