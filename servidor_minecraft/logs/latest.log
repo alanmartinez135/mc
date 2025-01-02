@@ -66,3 +66,20 @@
 [02:27:52] [Server thread/INFO]: Cattography left the game
 [02:27:52] [Server thread/INFO]: remove player wand
 [02:27:52] [Server thread/INFO]: Updating all forceload tickets for ff773793-e4d4-32de-9889-016a15ea9007
+[02:55:16] [Server thread/INFO]: [Handshake] Sending channel query
+[02:55:16] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[02:55:16] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[02:55:16] [Server thread/INFO]: Cattography[/100.123.42.122:52736] logged in with entity id 52822 at (2868.335696386448, 67.0, -75.2188661041141)
+[02:55:16] [Server thread/INFO]: Sending server config values to client
+[02:55:17] [Server thread/INFO]: Syncing config to Cattography (ff773793-e4d4-32de-9889-016a15ea9007)
+[02:55:17] [Server thread/INFO]: Loading config from file...
+[02:55:17] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[02:55:17] [Server thread/INFO]: Cattography joined the game
+[02:55:17] [Server thread/INFO]: Updating all forceload tickets for ff773793-e4d4-32de-9889-016a15ea9007
+[02:55:17] [Server thread/INFO]: PLAYER_JOIN
+[02:55:17] [Server thread/INFO]: add_player wand
+[02:55:17] [Server thread/INFO]: config sent
+[02:55:19] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[02:55:19] [Netty Epoll Server IO #0/INFO]: [Ping-Wheel] Channel update: Cattography -> Global
+[02:55:19] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Cattography. Claiming: GRAVE / Robbing: INVENTORY
+[02:55:26] [Netty Epoll Server IO #0/INFO]: [do_a_barrel_roll] Client of Cattography accepted server config.
