@@ -18788,6 +18788,18 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/silver_helmet": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_boots": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/polished_slab": {
     "criteria": {
       "has_blunite": "2025-01-02 22:16:37 +0000"
@@ -18824,6 +18836,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
     "criteria": {
       "has_skeleton_skull": "2025-01-02 22:47:27 +0000"
@@ -18842,15 +18860,39 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/nugget/lead_nugget": {
+    "criteria": {
+      "has_lead_ingot": "2025-01-02 23:00:28 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/crafting/blunite/polished_block": {
     "criteria": {
       "has_blunite": "2025-01-02 22:16:37 +0000"
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/armor/silver_chestplate": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/storage_block/lead_storage_block": {
+    "criteria": {
+      "has_lead_ingot": "2025-01-02 23:00:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:ironalloyfurnace": {
     "criteria": {
       "crit_0": "2025-01-02 22:30:00 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/combat/athame": {
+    "criteria": {
+      "has_item": "2025-01-02 22:59:23 +0000"
     },
     "done": true
   },
@@ -18866,15 +18908,51 @@
     },
     "done": true
   },
+  "techreborn:recipes/compressor/silver_plate": {
+    "criteria": {
+      "has_tag_c_silver_ingots": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/lead_plate": {
+    "criteria": {
+      "has_tag_c_lead_ingots": "2025-01-02 23:00:28 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/industrial_electrolyzer": {
     "criteria": {
       "has_extractor": "2025-01-02 22:41:32 +0000"
     },
     "done": true
   },
+  "bewitchment:recipes/combat/silver_arrow": {
+    "criteria": {
+      "has_item": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/misc/crafting_table/armor/silver_leggings": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/brazier": {
+    "criteria": {
+      "has_item": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/wire_mill": {
     "criteria": {
       "has_extractor": "2025-01-02 22:41:32 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_water": {
+    "criteria": {
+      "has_diamond_shovel": "2025-01-02 23:04:01 +0000"
     },
     "done": true
   },
@@ -18914,6 +18992,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/storage_block/silver_storage_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/polished_block": {
     "criteria": {
       "has_blunite": "2025-01-02 22:16:37 +0000"
@@ -18932,9 +19016,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/industrial_grinder/diamond_small_dust_from_shovel_with_mercury": {
+    "criteria": {
+      "has_diamond_shovel": "2025-01-02 23:04:01 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_gold_cable_shapeless": {
     "criteria": {
       "has_rubber": "2025-01-02 22:34:58 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/silver_candelabra": {
+    "criteria": {
+      "has_item": "2025-01-02 22:59:23 +0000"
     },
     "done": true
   },
