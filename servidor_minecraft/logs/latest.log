@@ -172,3 +172,5 @@
 [03:55:46] [Server thread/WARN]: @Redirect conflict. Skipping redirector.mixins.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirector->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
 [03:57:31] [Server thread/INFO]: Villager class_1646['Carlos'/76927, l='ServerLevel[world]', x=3476.29, y=105.68, z=46.45] died, message: 'Carlos was slain by Zombie'
 [03:57:31] [Server thread/INFO]: Named entity class_1646['Carlos'/76927, l='ServerLevel[world]', x=3476.29, y=105.68, z=46.45] died: Carlos was slain by Zombie
+[03:57:58] [Server thread/INFO]: Villager class_1646['Lesley'/76926, l='ServerLevel[world]', x=3478.50, y=103.00, z=38.40] died, message: 'Lesley was slain by Zombie'
+[03:57:58] [Server thread/INFO]: Named entity class_1646['Lesley'/76926, l='ServerLevel[world]', x=3478.50, y=103.00, z=38.40] died: Lesley was slain by Zombie
