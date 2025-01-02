@@ -613,6 +613,7 @@
       "rocky_meadow": "2024-12-16 00:51:05 +0000",
       "tropical_river": "2024-12-18 04:29:05 +0000",
       "magnolia_highlands": "2025-01-02 02:13:03 +0000",
+      "eucalyptus_forest": "2025-01-02 03:23:54 +0000",
       "outback": "2024-12-16 01:05:43 +0000",
       "sparse_redwoods": "2024-12-16 00:09:07 +0000",
       "joshua_desert": "2024-12-16 00:55:49 +0000",
@@ -647,6 +648,7 @@
       "rocky_meadow": "2024-12-16 00:51:05 +0000",
       "tropical_river": "2024-12-18 04:29:05 +0000",
       "magnolia_highlands": "2025-01-02 02:13:03 +0000",
+      "eucalyptus_forest": "2025-01-02 03:23:54 +0000",
       "outback": "2024-12-16 01:05:43 +0000",
       "sparse_redwoods": "2024-12-16 00:09:07 +0000",
       "joshua_desert": "2024-12-16 00:55:49 +0000",
@@ -4771,6 +4773,7 @@
       "minecraft:magma_cube": "2025-01-02 01:15:01 +0000",
       "minecraft:spider": "2025-01-01 23:22:17 +0000",
       "minecraft:piglin_brute": "2025-01-02 02:14:47 +0000",
+      "minecraft:slime": "2025-01-02 03:28:05 +0000",
       "minecraft:witch": "2025-01-02 03:09:49 +0000",
       "minecraft:wither_skeleton": "2024-12-16 00:25:52 +0000",
       "minecraft:husk": "2024-12-18 04:25:48 +0000",
@@ -17476,6 +17479,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus": {
+    "criteria": {
+      "has_cactus": "2025-01-02 03:22:54 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/food/caramel_from_sugar": {
     "criteria": {
       "has_sugar": "2025-01-02 03:12:16 +0000"
@@ -17555,6 +17564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-01-02 03:22:54 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/shadow_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-01-02 03:12:07 +0000"
@@ -17618,6 +17633,12 @@
   "betterend:recipes/misc/cave_pumpkin_pie": {
     "criteria": {
       "has_sugar": "2025-01-02 03:12:16 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-01-02 03:28:47 +0000"
     },
     "done": true
   },
