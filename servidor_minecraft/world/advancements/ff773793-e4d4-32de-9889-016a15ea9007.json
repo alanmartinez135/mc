@@ -17683,6 +17683,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_leggings": {
     "criteria": {
       "has_ruby_gem": "2025-01-02 05:57:46 +0000"
@@ -17695,9 +17701,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/saw_small_dust_from_wooden_trapdoors": {
     "criteria": {
       "has_tag_minecraft_wooden_trapdoors": "2025-01-02 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-01-02 06:00:40 +0000"
     },
     "done": true
   },
@@ -17791,6 +17815,12 @@
     },
     "done": true
   },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2025-01-02 06:04:33 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/armor/ruby_helmet": {
     "criteria": {
       "has_ruby_gem": "2025-01-02 05:57:46 +0000"
@@ -17869,9 +17899,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/flint_from_gravel": {
+    "criteria": {
+      "has_gravel": "2025-01-02 06:04:33 +0000"
     },
     "done": true
   },
@@ -17896,6 +17938,12 @@
   "techreborn:recipes/grinder/sapphire_dust": {
     "criteria": {
       "has_tag_c_sapphires": "2025-01-02 04:25:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-02 06:04:33 +0000"
     },
     "done": true
   },
@@ -17932,6 +17980,12 @@
   "techreborn:recipes/misc/crafting_table/tool/peridot_sword": {
     "criteria": {
       "has_peridot_gem": "2025-01-02 04:25:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
     },
     "done": true
   },
@@ -17974,6 +18028,12 @@
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
     },
     "done": true
   },
@@ -18025,6 +18085,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/peat_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-02 06:04:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_tile_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
@@ -18043,9 +18109,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
       "has_spruce_trapdoor": "2025-01-02 04:14:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
     },
     "done": true
   },
@@ -18058,6 +18136,12 @@
   "techreborn:recipes/centrifuge/raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-02 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2025-01-02 06:04:33 +0000"
     },
     "done": true
   },
@@ -18097,6 +18181,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingle_wall_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
@@ -18130,6 +18220,18 @@
   "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
     "criteria": {
       "has_glow_berries": "2025-01-02 04:17:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
     },
     "done": true
   },
@@ -18175,6 +18277,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
@@ -18193,9 +18301,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-01-02 04:37:56 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2025-01-02 06:04:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
     },
     "done": true
   },
@@ -18253,6 +18379,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_slab_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
@@ -18271,9 +18403,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
     },
     "done": true
   },
@@ -18295,6 +18439,12 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/building_blocks/silt_coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-01-02 06:04:33 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/steampunk": {
     "criteria": {
       "has_item": "2025-01-02 03:55:55 +0000"
@@ -18304,6 +18454,12 @@
   "stoneworks:recipes/building_blocks/basalt_plates_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
     },
     "done": true
   },
@@ -18328,6 +18484,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_stairs_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-01-02 05:37:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-02 06:00:40 +0000"
     },
     "done": true
   },
