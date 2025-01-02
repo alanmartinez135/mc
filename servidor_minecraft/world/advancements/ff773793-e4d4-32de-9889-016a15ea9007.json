@@ -18824,9 +18824,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/blast_furnace/skull_pottery_sherd": {
+    "criteria": {
+      "has_skeleton_skull": "2025-01-02 22:47:27 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/cable/insulated_hv_cable_shapeless": {
     "criteria": {
       "has_rubber": "2025-01-02 22:34:58 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/tools/virus_nullodermal": {
+    "criteria": {
+      "has_alt_item": "2025-01-02 22:47:27 +0000"
     },
     "done": true
   },
@@ -18866,9 +18878,21 @@
     },
     "done": true
   },
+  "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 22:47:27 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/polished_stairs": {
     "criteria": {
       "has_blunite": "2025-01-02 22:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 22:47:27 +0000"
     },
     "done": true
   },
@@ -18881,6 +18905,12 @@
   "techreborn:rubber": {
     "criteria": {
       "crit_0": "2025-01-02 22:34:58 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/ghostly_helmet": {
+    "criteria": {
+      "has_skeleton_skull": "2025-01-02 22:47:27 +0000"
     },
     "done": true
   },
@@ -18917,6 +18947,12 @@
   "techreborn:recipes/crafting_table/machine/lv_transformer": {
     "criteria": {
       "has_insulated_copper_cable": "2025-01-02 22:27:54 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/skeleton_skull_to_bonemeal": {
+    "criteria": {
+      "has_skeleton_skull": "2025-01-02 22:47:27 +0000"
     },
     "done": true
   },
