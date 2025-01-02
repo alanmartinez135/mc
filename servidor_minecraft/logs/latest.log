@@ -277,3 +277,7 @@ Caused by: java.util.ConcurrentModificationException
 [05:21:35] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Sadoitoman -> Global
 [05:21:35] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Sadoitoman. Claiming: GRAVE / Robbing: INVENTORY
 [05:21:36] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Sadoitoman accepted server config.
+[05:30:21] [Server thread/INFO]: Sadoitoman has made the advancement [Enchanter]
+[05:30:34] [Server thread/INFO]: Sadoitoman has made the advancement [The Basics]
+[05:30:41] [Server thread/INFO]: Sadoitoman has made the advancement [Eterna, Quanta, Arcana]
+[05:39:44] [Server thread/INFO]: Sadoitoman has made the advancement [Tech Reborn]
