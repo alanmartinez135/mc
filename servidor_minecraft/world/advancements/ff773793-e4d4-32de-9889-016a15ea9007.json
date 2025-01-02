@@ -600,6 +600,7 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2024-12-16 00:50:36 +0000",
+      "shrubland": "2025-01-02 04:21:25 +0000",
       "dry_bushland": "2024-12-16 00:56:48 +0000",
       "redstone_abyss": "2025-01-02 01:07:12 +0000",
       "pine_taiga": "2025-01-02 03:04:59 +0000",
@@ -637,6 +638,7 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "mauve_hills": "2024-12-16 00:50:36 +0000",
+      "shrubland": "2025-01-02 04:21:25 +0000",
       "dry_bushland": "2024-12-16 00:56:48 +0000",
       "pine_taiga": "2025-01-02 03:04:59 +0000",
       "sparse_rainforest": "2024-12-16 01:07:06 +0000",
@@ -17692,6 +17694,18 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-01-02 04:17:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 04:17:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-02 04:09:29 +0000"
@@ -17725,6 +17739,12 @@
   "techreborn:recipes/centrifuge/raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-01-02 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-01-02 04:17:25 +0000"
     },
     "done": true
   },
