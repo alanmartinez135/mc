@@ -15850,6 +15850,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/parts/plantball_from_leaves": {
+    "criteria": {
+      "has_leaves": "2025-01-02 02:25:20 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/base_armors/soul_robe_helmet": {
     "criteria": {
       "has_soul_sand": "2025-01-02 01:40:53 +0000"
@@ -15865,6 +15871,12 @@
   "betternether:recipes/decorations/cincinnasite_forge": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-01-02 02:26:12 +0000"
     },
     "done": true
   },
@@ -16054,6 +16066,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-01-02 02:26:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_water": {
     "criteria": {
       "has_tag_minecraft_gold_ores": "2025-01-02 02:14:15 +0000"
@@ -16099,6 +16117,12 @@
   "farmersdelight:recipes/cooking/mushroom_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/compressor/gold_plate_from_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 02:26:12 +0000"
     },
     "done": true
   },
@@ -16210,6 +16234,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-01-02 02:26:12 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/centrifuge/soul_sand": {
     "criteria": {
       "has_soul_sand": "2025-01-02 01:40:53 +0000"
@@ -16294,6 +16324,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/hammers/hammer_suns_grace": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 02:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 01:34:20 +0000"
@@ -16315,6 +16351,12 @@
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_soul_sand": "2025-01-02 01:40:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-01-02 02:26:12 +0000"
     },
     "done": true
   },
@@ -16354,6 +16396,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/chemical_reactor/enchanted_golden_apple": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 02:26:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-02 01:07:31 +0000"
@@ -16381,6 +16429,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-02 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/axes/axe_encrusted_anchor": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 02:26:12 +0000"
     },
     "done": true
   },
@@ -16465,6 +16519,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-02 02:06:01 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/azalea_leaf": {
+    "criteria": {
+      "has_leaves": "2025-01-02 02:25:20 +0000"
     },
     "done": true
   },
@@ -16930,6 +16990,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-02 02:26:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/nether_ruby_sword": {
     "criteria": {
       "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
@@ -16981,6 +17047,12 @@
   "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-01-02 02:26:12 +0000"
     },
     "done": true
   },
@@ -17200,6 +17272,18 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-01-02 02:26:12 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-01-02 02:26:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-01-02 02:06:01 +0000"
@@ -17332,9 +17416,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-01-02 02:26:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-02 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_golden": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-02 02:26:12 +0000"
     },
     "done": true
   },

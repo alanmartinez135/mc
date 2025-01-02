@@ -61,3 +61,8 @@
 [02:06:01] [Server thread/INFO]: Cattography has made the advancement [Ice Bucket Challenge]
 [02:13:36] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / ctov:small/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean]] from pos class_2338{x=2779, y=73, z=123}
 [02:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[02:27:49] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02:27:52] [Server thread/INFO]: Cattography lost connection: Disconnected
+[02:27:52] [Server thread/INFO]: Cattography left the game
+[02:27:52] [Server thread/INFO]: remove player wand
+[02:27:52] [Server thread/INFO]: Updating all forceload tickets for ff773793-e4d4-32de-9889-016a15ea9007
