@@ -18782,9 +18782,21 @@
     },
     "done": true
   },
+  "techreborn:recipes/misc/crafting_table/small_dust/glowstone_small_dust_from_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 23:14:44 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/iron_alloy_furnace": {
     "criteria": {
       "has_iron_furnace": "2025-01-02 22:27:33 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/lamp_led": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 23:14:44 +0000"
     },
     "done": true
   },
@@ -18896,6 +18908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 23:14:44 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/combat/athame": {
     "criteria": {
       "has_item": "2025-01-02 22:59:23 +0000"
@@ -18911,6 +18929,12 @@
   "promenade:recipes/crafting/blunite/wall": {
     "criteria": {
       "has_blunite": "2025-01-02 22:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 23:14:44 +0000"
     },
     "done": true
   },
@@ -18989,6 +19013,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_the_recipe": "2025-01-02 22:47:27 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/glowstone_dust": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-02 23:14:44 +0000"
     },
     "done": true
   },
