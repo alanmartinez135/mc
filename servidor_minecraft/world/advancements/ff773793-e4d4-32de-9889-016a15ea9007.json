@@ -15660,7 +15660,9 @@
   },
   "betternether:all_the_biomes": {
     "criteria": {
-      "betternether:old_swampland": "2025-01-02 01:14:44 +0000"
+      "betternether:gravel_desert": "2025-01-02 01:40:00 +0000",
+      "betternether:old_swampland": "2025-01-02 01:14:44 +0000",
+      "betternether:nether_swampland": "2025-01-02 01:39:20 +0000"
     },
     "done": false
   },
@@ -15673,6 +15675,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_pillar_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
     },
     "done": true
   },
@@ -15709,6 +15717,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_item.betternether.cincinnasite": "2025-01-02 01:17:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
     },
     "done": true
   },
@@ -15778,6 +15792,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_helmet": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_forge": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:30:20 +0000"
@@ -15820,6 +15840,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_reed_planks": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:30:20 +0000"
@@ -15835,6 +15861,12 @@
   "copycats:recipes/misc/stonecutting/copycat_slab": {
     "criteria": {
       "has_item": "2025-01-02 01:23:47 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_soul_hunter": {
+    "criteria": {
+      "has_soul_soil": "2025-01-02 01:40:48 +0000"
     },
     "done": true
   },
@@ -15868,6 +15900,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_leggings": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/tools/dreamwood_wand": {
     "criteria": {
       "has_item": "2025-01-02 01:33:22 +0000"
@@ -15877,6 +15915,12 @@
   "techreborn:recipes/industrial_grinder/netherrack_with_water": {
     "criteria": {
       "has_netherrack": "2025-01-02 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
     },
     "done": true
   },
@@ -15904,6 +15948,12 @@
     },
     "done": true
   },
+  "mcdw:recipes/soul_daggers/soul_dagger_soul_knife": {
+    "criteria": {
+      "has_soul_soil": "2025-01-02 01:40:48 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_mossy": {
     "criteria": {
       "has_item": "2025-01-02 01:33:22 +0000"
@@ -15919,6 +15969,12 @@
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-01-02 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
     },
     "done": true
   },
@@ -15946,6 +16002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:48 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_layer": {
     "criteria": {
       "has_item": "2025-01-02 01:23:47 +0000"
@@ -15958,15 +16020,33 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingles_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:30:20 +0000"
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_slope_layer": {
     "criteria": {
       "has_item": "2025-01-02 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/sugar": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
     },
     "done": true
   },
@@ -15985,6 +16065,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-02 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_sand": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
     },
     "done": true
   },
@@ -16060,9 +16146,27 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 01:34:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-02 01:40:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
     },
     "done": true
   },
@@ -16102,6 +16206,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_boots": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_smelting_redstone_bulb": {
     "criteria": {
       "has_redstone_bulb": "2025-01-02 01:07:31 +0000"
@@ -16126,9 +16236,21 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-01-02 01:40:53 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_ladder": {
     "criteria": {
       "has_item": "2025-01-02 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stick": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
     },
     "done": true
   },
@@ -16162,9 +16284,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stonecutting/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 01:34:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_soul": {
+    "criteria": {
+      "has_core_specification_item": "2025-01-02 01:40:53 +0000"
     },
     "done": true
   },
@@ -16288,6 +16422,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/crafting_table/machine/rolling_machine": {
     "criteria": {
       "has_advanced_circuit": "2025-01-02 01:25:30 +0000"
@@ -16384,6 +16524,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/redstone/redstone_from_blasting_raw_redstone_block": {
     "criteria": {
       "has_raw_redstone_block": "2025-01-02 01:10:43 +0000"
@@ -16420,6 +16566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_large_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-01-02 01:30:20 +0000"
@@ -16441,6 +16593,12 @@
   "copycats:recipes/misc/stonecutting/copycat_shaft": {
     "criteria": {
       "has_item": "2025-01-02 01:23:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
     },
     "done": true
   },
@@ -16468,6 +16626,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
+    },
+    "done": true
+  },
   "copycats:recipes/misc/stonecutting/copycat_vertical_step": {
     "criteria": {
       "has_item": "2025-01-02 01:23:48 +0000"
@@ -16492,6 +16656,12 @@
     },
     "done": true
   },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_nether_reed": "2025-01-02 01:39:18 +0000"
+    },
+    "done": false
+  },
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_block.minecraft.nether_bricks": "2025-01-02 01:30:20 +0000"
@@ -16501,6 +16671,12 @@
   "betternether:recipes/building_blocks/nether_bricks_roof_tile_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
     },
     "done": true
   },
@@ -16522,6 +16698,12 @@
     },
     "done": true
   },
+  "mcda:recipes/base_armors/soul_robe_chestplate": {
+    "criteria": {
+      "has_soul_sand": "2025-01-02 01:40:53 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-01-02 01:07:12 +0000"
@@ -16534,9 +16716,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/dragon_staff": {
     "criteria": {
       "has_item": "2025-01-02 01:27:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
     },
     "done": true
   },
@@ -16549,6 +16743,12 @@
   "betternether:recipes/building_blocks/blue_obsidian_tile": {
     "criteria": {
       "has_blue_obsidian": "2025-01-02 01:26:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/paper": {
+    "criteria": {
+      "has_nether_reed_stem": "2025-01-02 01:39:18 +0000"
     },
     "done": true
   },
@@ -16675,6 +16875,12 @@
   "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-02 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/soul_soil": {
+    "criteria": {
+      "has_soul_soil": "2025-01-02 01:40:48 +0000"
     },
     "done": true
   },
