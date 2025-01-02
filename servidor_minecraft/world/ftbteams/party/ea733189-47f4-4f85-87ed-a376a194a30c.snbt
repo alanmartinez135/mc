@@ -1,0 +1,17 @@
+{
+	id: "ea733189-47f4-4f85-87ed-a376a194a30c"
+	type: "party"
+	owner: "cdf68164-59d0-3b5a-b519-700842bd18a5"
+	ranks: {
+		cdf68164-59d0-3b5a-b519-700842bd18a5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": ""
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59AF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1735778137146L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Sadoitoman\"}]}" }]
+	extra: { }
+}
