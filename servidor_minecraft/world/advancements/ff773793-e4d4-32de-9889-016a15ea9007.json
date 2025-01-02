@@ -4762,6 +4762,7 @@
       "minecraft:piglin_brute": "2025-01-02 02:14:47 +0000",
       "minecraft:wither_skeleton": "2024-12-16 00:25:52 +0000",
       "minecraft:husk": "2024-12-18 04:25:48 +0000",
+      "minecraft:piglin": "2025-01-02 02:17:58 +0000",
       "minecraft:zombie": "2024-12-18 04:24:20 +0000"
     },
     "done": false
@@ -15660,6 +15661,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/decorations/apothecary_deepslate": {
     "criteria": {
       "has_item": "2025-01-02 01:33:22 +0000"
@@ -15674,6 +15681,12 @@
       "betternether:nether_swampland_terraces": "2025-01-02 01:46:03 +0000"
     },
     "done": false
+  },
+  "netherdepthsupgrade:recipes/food/grilled_magmacubefish": {
+    "criteria": {
+      "has_magmacubefish": "2025-01-02 02:15:11 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
@@ -15903,9 +15916,21 @@
     },
     "done": true
   },
+  "twigs:recipes/paper_lanterns/blue_orchid_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/nether_brick_shingle_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:30:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-02 02:22:13 +0000"
     },
     "done": true
   },
@@ -15945,6 +15970,12 @@
     },
     "done": true
   },
+  "botania:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_orig_recipe": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-02 01:30:20 +0000"
@@ -15954,6 +15985,12 @@
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-02 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/centrifuge/red_mushroom": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-02 02:22:13 +0000"
     },
     "done": true
   },
@@ -16011,6 +16048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/industrial_grinder/raw_gold_from_gold_ore_with_water": {
     "criteria": {
       "has_tag_minecraft_gold_ores": "2025-01-02 02:14:15 +0000"
@@ -16053,6 +16096,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 01:34:20 +0000"
@@ -16086,6 +16135,12 @@
   "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-01-02 02:06:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-01-02 02:22:22 +0000"
     },
     "done": true
   },
@@ -16251,6 +16306,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/wall_red_brown": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bricks_fire_bowl_soul": {
     "criteria": {
       "has_soul_sand": "2025-01-02 01:40:53 +0000"
@@ -16260,6 +16321,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-02 01:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-02 02:22:13 +0000"
     },
     "done": true
   },
@@ -16485,6 +16552,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-01-02 02:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-01-02 02:22:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-01-02 01:30:47 +0000"
@@ -16509,9 +16588,45 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_14": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_15": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/blast_furnace/iron_ingot_from_horse_armor": {
     "criteria": {
       "has_iron_horse_armor": "2025-01-02 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_10": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_11": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_12": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_13": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
     },
     "done": true
   },
@@ -16569,6 +16684,12 @@
     },
     "done": true
   },
+  "techreborn:recipes/crafting_table/machine/block_breaker": {
+    "criteria": {
+      "has_hopper": "2025-01-02 02:19:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-02 01:34:20 +0000"
@@ -16578,6 +16699,12 @@
   "copycats:recipes/misc/stonecutting/copycat_vertical_slice": {
     "criteria": {
       "has_item": "2025-01-02 01:23:47 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/blue_orchid": {
+    "criteria": {
+      "has_flower": "2025-01-02 02:22:22 +0000"
     },
     "done": true
   },
@@ -16620,6 +16747,12 @@
   "copycats:recipes/misc/stonecutting/copycat_door": {
     "criteria": {
       "has_item": "2025-01-02 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/crafting_table/machine/block_placer": {
+    "criteria": {
+      "has_hopper": "2025-01-02 02:19:34 +0000"
     },
     "done": true
   },
@@ -16710,6 +16843,12 @@
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
       "location0": "2025-01-02 02:13:27 +0000"
+    },
+    "done": true
+  },
+  "netherdepthsupgrade:recipes/netherdepthsupgrade/fortress_grouper_plate": {
+    "criteria": {
+      "has_fortress_grouper": "2025-01-02 02:15:47 +0000"
     },
     "done": true
   },
@@ -16941,6 +17080,66 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/mushroom_0": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_1": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_2": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_3": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_4": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_5": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_6": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_7": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_8": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/mushroom_9": {
+    "criteria": {
+      "has_item": "2025-01-02 02:22:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-01-02 01:07:31 +0000"
@@ -16971,6 +17170,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-02 02:22:18 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/grinder/raw_gold": {
     "criteria": {
       "has_tag_c_gold_ores": "2025-01-02 02:14:15 +0000"
@@ -16986,6 +17191,12 @@
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2025-01-02 02:06:01 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/extractor/string_from_banner": {
+    "criteria": {
+      "has_banner": "2025-01-02 02:18:19 +0000"
     },
     "done": true
   },
@@ -17052,6 +17263,12 @@
   "techreborn:recipes/misc/crafting_table/storage_block/zinc_storage_block": {
     "criteria": {
       "has_zinc_ingot": "2025-01-02 01:23:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2025-01-02 02:19:34 +0000"
     },
     "done": true
   },
@@ -17136,6 +17353,12 @@
   "copycats:recipes/misc/stonecutting/copycat_half_layer": {
     "criteria": {
       "has_item": "2025-01-02 01:23:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-01-02 02:16:38 +0000"
     },
     "done": true
   },
