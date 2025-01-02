@@ -260,3 +260,20 @@ Caused by: java.util.ConcurrentModificationException
 [04:50:47] [Server thread/INFO]: remove player wand
 [04:50:47] [Server thread/INFO]: Updating all forceload tickets for cdf68164-59d0-3b5a-b519-700842bd18a5
 [05:05:49] [pool-12-thread-11/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_wandering_trader_camp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_underground], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain], ResourceKey[minecraft:worldgen/structure / ctov:small/village_plains]] from pos class_2338{x=1877, y=68, z=693}
+[05:21:33] [Server thread/INFO]: [Handshake] Sending channel query
+[05:21:33] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[05:21:33] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[05:21:33] [Server thread/INFO]: Sadoitoman[/100.91.15.63:52982] logged in with entity id 119154 at (1790.3721591813603, 71.5, 38.7213730575448)
+[05:21:33] [Server thread/INFO]: Sending server config values to client
+[05:21:33] [Server thread/INFO]: Syncing config to Sadoitoman (cdf68164-59d0-3b5a-b519-700842bd18a5)
+[05:21:33] [Server thread/INFO]: Loading config from file...
+[05:21:33] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[05:21:33] [Server thread/INFO]: Sadoitoman joined the game
+[05:21:33] [Server thread/INFO]: PLAYER_JOIN
+[05:21:33] [Server thread/INFO]: add_player wand
+[05:21:33] [Server thread/INFO]: config sent
+[05:21:33] [Server thread/INFO]: Updating all forceload tickets for cdf68164-59d0-3b5a-b519-700842bd18a5
+[05:21:34] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[05:21:35] [Netty Epoll Server IO #6/INFO]: [Ping-Wheel] Channel update: Sadoitoman -> Global
+[05:21:35] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Sadoitoman. Claiming: GRAVE / Robbing: INVENTORY
+[05:21:36] [Netty Epoll Server IO #6/INFO]: [do_a_barrel_roll] Client of Sadoitoman accepted server config.
