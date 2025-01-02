@@ -57,3 +57,7 @@
 [01:40:49] [Server thread/INFO]: [Server] hola, paso a decirte q te amu, mua, me estoy haciendo cositas pa comer
 [01:41:04] [Server thread/INFO]: [Server] eso, bye <3
 [01:52:41] [Netty Epoll Server IO #1/INFO]: [do_a_barrel_roll] Client of Cattography accepted server config.
+[02:02:42] [Server thread/INFO]: Cattography has made the advancement [Enchanter]
+[02:06:01] [Server thread/INFO]: Cattography has made the advancement [Ice Bucket Challenge]
+[02:13:36] [pool-12-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:medium/village_beach], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / ctov:small/village_beach], ResourceKey[minecraft:worldgen/structure / ctov:large/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / ctov:small/village_mesa], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_ocean]] from pos class_2338{x=2779, y=73, z=123}
+[02:13:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
