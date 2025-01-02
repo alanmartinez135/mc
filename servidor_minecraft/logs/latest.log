@@ -2278,3 +2278,5 @@ BCLib - The End  BiomeSource (1140a8a5)
 [22:09:35] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Cattography accepted server config.
 [22:09:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6567ms or 131 ticks behind
 [22:10:18] [Server thread/INFO]: [STDOUT]: Finalizing energy item registration
+[22:19:17] [Server thread/INFO]: [STDOUT]: Finalizing fluid block registration
+[22:19:17] [Server thread/INFO]: [STDOUT]: Finalizing energy block registration
