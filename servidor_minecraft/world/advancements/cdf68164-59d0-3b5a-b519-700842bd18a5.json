@@ -13170,6 +13170,12 @@
     },
     "done": true
   },
+  "botania:recipes/decorations/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-01-02 01:16:22 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/chemical_reactor/green_stained_glass_pane_from_glass_pane_with_green_dye": {
     "criteria": {
       "has_green_dye": "2025-01-02 00:21:31 +0000"
@@ -13461,6 +13467,12 @@
   "mcda:recipes/base_armors/climbing_gear_chestplate": {
     "criteria": {
       "has_leather_chestplate": "2025-01-02 01:13:05 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/decorations/brewery": {
+    "criteria": {
+      "has_alt_item": "2025-01-02 01:16:22 +0000"
     },
     "done": true
   },
