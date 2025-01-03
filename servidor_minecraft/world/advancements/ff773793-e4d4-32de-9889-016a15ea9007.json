@@ -4789,6 +4789,7 @@
       "minecraft:wither_skeleton": "2024-12-16 00:25:52 +0000",
       "minecraft:husk": "2024-12-18 04:25:48 +0000",
       "minecraft:piglin": "2025-01-02 02:17:58 +0000",
+      "minecraft:enderman": "2025-01-03 00:05:36 +0000",
       "minecraft:zombie": "2024-12-18 04:24:20 +0000"
     },
     "done": false
@@ -18812,6 +18813,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-03 00:05:37 +0000"
+    },
+    "done": true
+  },
   "promenade:recipes/stonecutting/blunite/polished_slab": {
     "criteria": {
       "has_blunite": "2025-01-02 22:16:37 +0000"
@@ -18821,6 +18828,12 @@
   "promenade:recipes/crafting/blunite/stairs": {
     "criteria": {
       "has_blunite": "2025-01-02 22:16:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-03 00:05:37 +0000"
     },
     "done": true
   },
@@ -18902,6 +18915,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_pearl_to_dust": {
+    "criteria": {
+      "has_item.minecraft.ender_pearl": "2025-01-03 00:05:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:ironalloyfurnace": {
     "criteria": {
       "crit_0": "2025-01-02 22:30:00 +0000"
@@ -18911,6 +18930,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-01-02 23:14:44 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipes/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-03 00:05:37 +0000"
     },
     "done": true
   },
@@ -18962,6 +18987,12 @@
     },
     "done": true
   },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-01-03 00:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-01-02 23:05:02 +0000"
@@ -18998,9 +19029,21 @@
     },
     "done": true
   },
+  "things:gleaming_powder": {
+    "criteria": {
+      "gleaming_powder": "2025-01-03 00:08:14 +0000"
+    },
+    "done": true
+  },
   "mcda:recipes/crafting_items/phantom_bones_to_bonemeal": {
     "criteria": {
       "has_the_recipe": "2025-01-02 22:47:27 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-01-03 00:05:37 +0000"
     },
     "done": true
   },
@@ -19028,6 +19071,12 @@
     },
     "done": true
   },
+  "bewitchment:recipes/tools/waystone": {
+    "criteria": {
+      "has_item": "2025-01-03 00:05:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:rubber": {
     "criteria": {
       "crit_0": "2025-01-02 22:34:58 +0000"
@@ -19040,9 +19089,21 @@
     },
     "done": true
   },
+  "mythicmounts:summoning_staff": {
+    "criteria": {
+      "has_pearl": "2025-01-03 00:05:37 +0000"
+    },
+    "done": true
+  },
   "techreborn:recipes/misc/crafting_table/storage_block/silver_storage_block": {
     "criteria": {
       "has_silver_ingot": "2025-01-02 22:59:23 +0000"
+    },
+    "done": true
+  },
+  "techreborn:recipes/chemical_reactor/ender_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-03 00:05:37 +0000"
     },
     "done": true
   },
@@ -19103,6 +19164,18 @@
   "techreborn:recipes/crafting_table/battery/red_cell_battery": {
     "criteria": {
       "has_insulated_copper_cable": "2025-01-02 22:27:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-03 00:05:37 +0000"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/transmogrification_table": {
+    "criteria": {
+      "has_item": "2025-01-03 00:05:37 +0000"
     },
     "done": true
   },
